@@ -1,5 +1,6 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR --export SSH_AUTH_SOCK:/run/user/1000/gcr/ssh
 SETUVAR --export TOKYONIGHT:moon
 SETUVAR __fish_initialized:3800
 SETUVAR _fisher_axkirillov_2F_tokyonight_2D_fish_files:\x7e/\x2econfig/fish/functions/_tokyonight_set_background\x2efish\x1e\x7e/\x2econfig/fish/functions/theme_tokyonight\x2efish\x1e\x7e/\x2econfig/fish/functions/tokyonight_day\x2efish\x1e\x7e/\x2econfig/fish/functions/tokyonight_moon\x2efish\x1e\x7e/\x2econfig/fish/functions/tokyonight_night\x2efish\x1e\x7e/\x2econfig/fish/functions/tokyonight_storm\x2efish\x1e\x7e/\x2econfig/fish/conf\x2ed/tokyonight\x2efish

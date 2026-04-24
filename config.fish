@@ -21,4 +21,3 @@ if status is-interactive
     alias lt='eza -aT --color=always --group-directories-first'
     alias l.='eza -a | egrep "^\."'
 end
-

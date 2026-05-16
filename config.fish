@@ -10,7 +10,7 @@ if status is-interactive
     starship init fish | source
 
 		# Zoxide
-		zoxide init --cmd=cd fish | source
+		zoxide init --cmd=z fish | source
 
     # --- Aliases ---
     alias vim='nvim'

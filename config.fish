@@ -2,6 +2,9 @@ if status is-interactive
     # Hide the welcome message
     function fish_greeting; end
 
+    # Set default editor
+    set -x EDITOR nvim
+
     # If you want Starship, do NOT load any Fish prompt themes.
     # (Comment out any theme lines like "theme_tokyonight moon")
     # theme_tokyonight moon

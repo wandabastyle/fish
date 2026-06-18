@@ -1,5 +1,8 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR --export ANDROID_HOME:/opt/android\x2dsdk
+SETUVAR --export ANDROID_SDK_ROOT:/opt/android\x2dsdk
+SETUVAR --export JAVA_HOME:/usr/lib/jvm/java\x2d21\x2dopenjdk
 SETUVAR --export LANG:en_US\x2eUTF\x2d8
 SETUVAR --export --path LANGUAGE:en_US\x1een
 SETUVAR --export LC_ALL:en_US\x2eUTF\x2d8
@@ -24,13 +27,12 @@ SETUVAR fish_color_quote:ffc777
 SETUVAR fish_color_redirection:c8d3f5
 SETUVAR fish_color_search_match:\x2d\x2dbackground\x3d3654a7
 SETUVAR fish_color_selection:\x2d\x2dbackground\x3d3654a7
-SETUVAR fish_key_bindings:fish_default_key_bindings
 SETUVAR fish_pager_color_completion:c8d3f5
 SETUVAR fish_pager_color_description:7a88cf
 SETUVAR fish_pager_color_prefix:86e1fc
 SETUVAR fish_pager_color_progress:7a88cf
 SETUVAR fish_pager_color_selected_background:\x2d\x2dbackground\x3d3654a7
-SETUVAR fish_user_paths:/home/kanashi/\x2elocal/bin\x1e/home/kanashi/\x2edotnet/tools\x1e/home/kanashi/\x2ecargo/bin
+SETUVAR fish_user_paths:/home/kanashi/go/bin\x1e/opt/android\x2dsdk/tools/bin\x1e/opt/android\x2dsdk/tools\x1e/opt/android\x2dsdk/platform\x2dtools\x1e/usr/lib/jvm/java\x2d21\x2dopenjdk/bin\x1e/home/kanashi/\x2epi/agent/bin\x1e/home/kanashi/\x2elocal/bin\x1e/home/kanashi/\x2edotnet/tools\x1e/home/kanashi/\x2ecargo/bin
 SETUVAR pure_begin_prompt_with_current_directory:true
 SETUVAR pure_check_for_new_release:false
 SETUVAR pure_color_at_sign:pure_color_mute

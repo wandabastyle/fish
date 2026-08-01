@@ -11,7 +11,8 @@ function lyrics
     set -l json (curl -fsSG 'https://lrclib.net/api/search' \
         --data-urlencode "q=$query")
 
-    set -l choices (echo $json | jq -r '.[] | "\(.artistName) — \(.trackName)"')
+    set -l results (echo $json | jq 'unique_by([.artistName, .trackName])')
+    set -l choices (echo $results | jq -r '.[] | "\(.artistName) — \(.trackName)"')
     if test (count $choices) -eq 0
         echo "No lyrics found for: $query" >&2
         return 1
@@ -27,7 +28,7 @@ function lyrics
     set -l artist (string split " — " $selection)[1]
     set -l track  (string split " — " $selection)[2]
 
-    echo $json |
+    echo $results |
     jq -r --arg a "$artist" --arg t "$track" '
         .[]
         | select(.artistName == $a and .trackName == $t)

@@ -34,5 +34,5 @@ function lyrics
         | select(.artistName == $a and .trackName == $t)
         | "🎵 \(.artistName)\n♪ \(.trackName)\n\n\(.plainLyrics // "No lyrics available.")"
     ' |
-    gum pager
+    gum pager --no-soft-wrap
 end

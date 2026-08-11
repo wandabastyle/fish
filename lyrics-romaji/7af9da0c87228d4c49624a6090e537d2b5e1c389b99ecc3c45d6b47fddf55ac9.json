@@ -1,0 +1,335 @@
+{
+  "schema": 1,
+  "artist": "m-flo",
+  "track": "Hands",
+  "lyrics": [
+    "あたたかいね 君のその手",
+    "肩にふれてよ とけるまで",
+    "言葉さえも出なくなるよ",
+    "夜明けの空につれてって",
+    "ながれにそる船のように",
+    "私の髪に通す指",
+    "静かな夢でおわる前にさらってよ",
+    "風にのって",
+    "A million years with you only seems like a day",
+    "(You know your love takes me away)",
+    "夕日がそめる赤い雲を抜けて",
+    "(Baby, won't you show me the way)",
+    "夢の終わりにいてほしい",
+    "近くにいても 遠くにいても",
+    "パズルが解き明かされた日",
+    "何よりも感じたい その手を",
+    "",
+    "私の手と君の手が",
+    "結ぶようにからみ合えば",
+    "不思議な自由がとめどなく",
+    "透き通ってス―っと 目覚めだす",
+    "今日までこの手で汚した",
+    "心 体 let it all pass away",
+    "消えた魂の火ともしに",
+    "来て欲しいと祈るばかり",
+    "月を夜空にかざって",
+    "(共にながめてよう)",
+    "涙びたしのこの場所から",
+    "(Baby, won't you steal me away)",
+    "夢の終わりにいてほしい",
+    "近くにいても 遠くにいても",
+    "Baby can't you see かなえてほしい",
+    "何よりも感じたい その手を",
+    "",
+    "3ページ目開き Rorschach, blood, sweat and tears",
+    "I've spilled in the past 記憶逃亡",
+    "いつか一日が100万年のよう just listen",
+    "Therefore 一秒が約11年と半年",
+    "I be the paraclet mathematically 乱気流のような感情",
+    "かけめぐる残像も消してくれる",
+    "手のひらの感触 シャンソンを弾奏",
+    "Mellifluent verbiage で月面歩行",
+    "あの時あの場所の出来事が残したものは tangible",
+    "So 説明不用 for you I'd give an arm and a leg",
+    "電子メール from me predominantly",
+    "聞こえてくるはず my voice かすかに",
+    "この地球上 minus you, ain't got 果実",
+    "Your whole style's like a 太陽",
+    "No denial, so 夢かなえよう",
+    "キャンタンカラス onslaught of 論争と方針",
+    "The most minimal, indivisible 分りきれない",
+    "You and I, that's the quotient",
+    "夢の終わりにいてほしい",
+    "近くにいても遠くにいても",
+    "Baby can't you see かなえてほしい",
+    "何よりも感じたいその手を"
+  ],
+  "translations": [
+    {
+      "sourceLine": 1,
+      "romaji": "atatakai ne kimi no sono te",
+      "english": "Your hand is so warm"
+    },
+    {
+      "sourceLine": 2,
+      "romaji": "kata ni furete yo tokeru made",
+      "english": "Touch my shoulder until I melt"
+    },
+    {
+      "sourceLine": 3,
+      "romaji": "kotoba sae mo denaku naru yo",
+      "english": "I can't even find the words"
+    },
+    {
+      "sourceLine": 4,
+      "romaji": "yoake no sora ni tsurete tte",
+      "english": "Take me to the dawn sky"
+    },
+    {
+      "sourceLine": 5,
+      "romaji": "nagare ni soru fune no you ni",
+      "english": "Like a boat drifting with the current"
+    },
+    {
+      "sourceLine": 6,
+      "romaji": "watashi no kami ni toosu yubi",
+      "english": "Your fingers running through my hair"
+    },
+    {
+      "sourceLine": 7,
+      "romaji": "shizukana yume de owaru mae ni saratte yo",
+      "english": "Sweep me away before this quiet dream ends"
+    },
+    {
+      "sourceLine": 8,
+      "romaji": "kaze ni notte",
+      "english": "Riding on the wind"
+    },
+    {
+      "sourceLine": 9,
+      "romaji": "A million years with you only seems like a day",
+      "english": "A million years with you only seems like a day"
+    },
+    {
+      "sourceLine": 10,
+      "romaji": "(You know your love takes me away)",
+      "english": "(You know your love takes me away)"
+    },
+    {
+      "sourceLine": 11,
+      "romaji": "yuuhi ga someru akai kumo o nukete",
+      "english": "Passing through the red clouds stained by the sunset"
+    },
+    {
+      "sourceLine": 12,
+      "romaji": "(Baby, won't you show me the way)",
+      "english": "(Baby, won't you show me the way)"
+    },
+    {
+      "sourceLine": 13,
+      "romaji": "yume no owari ni ite hoshii",
+      "english": "I want you to be there at the end of the dream"
+    },
+    {
+      "sourceLine": 14,
+      "romaji": "chikaku ni ite mo tooku ni ite mo",
+      "english": "Whether you are near or far"
+    },
+    {
+      "sourceLine": 15,
+      "romaji": "pazuru ga tokiakasareta hi",
+      "english": "The day the puzzle was solved"
+    },
+    {
+      "sourceLine": 16,
+      "romaji": "nani yori mo kanjitai sono te o",
+      "english": "More than anything, I want to feel your hand"
+    },
+    {
+      "sourceLine": 18,
+      "romaji": "watashi no te to kimi no te ga",
+      "english": "My hand and your hand"
+    },
+    {
+      "sourceLine": 19,
+      "romaji": "musubu you ni karami aeba",
+      "english": "If they intertwine as if to tie a knot"
+    },
+    {
+      "sourceLine": 20,
+      "romaji": "fushigina jiyuu ga tomedonaku",
+      "english": "A mysterious freedom, without end"
+    },
+    {
+      "sourceLine": 21,
+      "romaji": "sukitootte su-tto mezame dasu",
+      "english": "Transparently and smoothly, it awakens"
+    },
+    {
+      "sourceLine": 22,
+      "romaji": "kyou made kono te de yogoshita",
+      "english": "Everything I've stained with these hands until today"
+    },
+    {
+      "sourceLine": 23,
+      "romaji": "kokoro karada let it all pass away",
+      "english": "Heart and body, let it all pass away"
+    },
+    {
+      "sourceLine": 24,
+      "romaji": "kieta tamashii no hi tomoshi ni",
+      "english": "Lighting the fire of a vanished soul"
+    },
+    {
+      "sourceLine": 25,
+      "romaji": "kite hoshii to inoru bakari",
+      "english": "I only pray that you will come"
+    },
+    {
+      "sourceLine": 26,
+      "romaji": "tsuki o yozora ni kazatte",
+      "english": "Holding the moon up to the night sky"
+    },
+    {
+      "sourceLine": 27,
+      "romaji": "(tomo ni nagamete you)",
+      "english": "(Let's gaze upon it together)"
+    },
+    {
+      "sourceLine": 28,
+      "romaji": "namidabitashi no kono basho kara",
+      "english": "From this place drenched in tears"
+    },
+    {
+      "sourceLine": 29,
+      "romaji": "(Baby, won't you steal me away)",
+      "english": "(Baby, won't you steal me away)"
+    },
+    {
+      "sourceLine": 30,
+      "romaji": "yume no owari ni ite hoshii",
+      "english": "I want you to be there at the end of the dream"
+    },
+    {
+      "sourceLine": 31,
+      "romaji": "chikaku ni ite mo tooku ni ite mo",
+      "english": "Whether you are near or far"
+    },
+    {
+      "sourceLine": 32,
+      "romaji": "Baby can't you see kanaete hoshii",
+      "english": "Baby can't you see, I want you to make it come true"
+    },
+    {
+      "sourceLine": 33,
+      "romaji": "nani yori mo kanjitai sono te o",
+      "english": "More than anything, I want to feel your hand"
+    },
+    {
+      "sourceLine": 35,
+      "romaji": "3 peeji me hiraki Rorschach, blood, sweat and tears",
+      "english": "Opening the third page: Rorschach, blood, sweat and tears"
+    },
+    {
+      "sourceLine": 36,
+      "romaji": "I've spilled in the past kioku toubou",
+      "english": "I've spilled in the past, memory escape"
+    },
+    {
+      "sourceLine": 37,
+      "romaji": "itsuka ichinichi ga hyakuman nen no you just listen",
+      "english": "Someday a single day will feel like a million years, just listen"
+    },
+    {
+      "sourceLine": 38,
+      "romaji": "Therefore ichibyou ga yaku juu-ichi nen to han-toshi",
+      "english": "Therefore, one second is about 11 and a half years"
+    },
+    {
+      "sourceLine": 39,
+      "romaji": "I be the paraclet mathematically rankiryuu no youna kanjou",
+      "english": "I be the paraclet mathematically, emotions like turbulence"
+    },
+    {
+      "sourceLine": 40,
+      "romaji": "kakemeguru zanzou mo keshite kureru",
+      "english": "You erase even the racing afterimages"
+    },
+    {
+      "sourceLine": 41,
+      "romaji": "tenohira no kanshoku shanson o ensou",
+      "english": "The sensation of your palm, playing a chanson"
+    },
+    {
+      "sourceLine": 42,
+      "romaji": "Mellifluent verbiage de getsumen hokou",
+      "english": "Moonwalking with mellifluent verbiage"
+    },
+    {
+      "sourceLine": 43,
+      "romaji": "ano toki ano basho no dekigoto ga nokoshita mono wa tangible",
+      "english": "What the events of that time and place left behind is tangible"
+    },
+    {
+      "sourceLine": 44,
+      "romaji": "So setsumei fuyou for you I'd give an arm and a leg",
+      "english": "So no explanation needed, for you I'd give an arm and a leg"
+    },
+    {
+      "sourceLine": 45,
+      "romaji": "denshi meeru from me predominantly",
+      "english": "Electronic mail from me predominantly"
+    },
+    {
+      "sourceLine": 46,
+      "romaji": "kikoete kuru hazu my voice kasuka ni",
+      "english": "My voice should be audible, faintly"
+    },
+    {
+      "sourceLine": 47,
+      "romaji": "kono chikyuujou minus you, ain't got kajitsu",
+      "english": "On this earth minus you, there is no fruit"
+    },
+    {
+      "sourceLine": 48,
+      "romaji": "Your whole style's like a taiyou",
+      "english": "Your whole style's like a sun"
+    },
+    {
+      "sourceLine": 49,
+      "romaji": "No denial, so yume kanaeyou",
+      "english": "No denial, so let's make the dream come true"
+    },
+    {
+      "sourceLine": 50,
+      "romaji": "kyantanka rasu onslaught of ronsou to houshin",
+      "english": "Simple crow, onslaught of controversy and policy"
+    },
+    {
+      "sourceLine": 51,
+      "romaji": "The most minimal, indivisible wakarikirenai",
+      "english": "The most minimal, indivisible, incomprehensible"
+    },
+    {
+      "sourceLine": 52,
+      "romaji": "You and I, that's the quotient",
+      "english": "You and I, that's the quotient"
+    },
+    {
+      "sourceLine": 53,
+      "romaji": "yume no owari ni ite hoshii",
+      "english": "I want you to be there at the end of the dream"
+    },
+    {
+      "sourceLine": 54,
+      "romaji": "chikaku ni ite mo tooku ni ite mo",
+      "english": "Whether you are near or far"
+    },
+    {
+      "sourceLine": 55,
+      "romaji": "Baby can't you see kanaete hoshii",
+      "english": "Baby can't you see, I want you to make it come true"
+    },
+    {
+      "sourceLine": 56,
+      "romaji": "nani yori mo kanjitai sono te o",
+      "english": "More than anything, I want to feel your hand"
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "schema": 1,
+  "artist": "Hikaru Utada",
+  "track": "Mine or Yours",
+  "lyrics": [
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "",
+    "昨日の僕は",
+    "僕が思う僕とはかけ離れていた",
+    "素直になれず君を泣かせるやつには",
+    "失望している",
+    "",
+    "自分を大事にできるようになるまで",
+    "なんにも守れない",
+    "",
+    "なにが食べたい？店探すよ",
+    "元気出るまでダラダラしよう",
+    "なにか飲むかい？お湯沸かすよ",
+    "君はコーヒー僕は緑茶、いつもの",
+    "",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "",
+    "どの道を選ぼうと",
+    "選ばなかった道を失う寂しさとセット",
+    "令和何年になったらこの国で",
+    "夫婦別姓OKされるんだろう",
+    "",
+    "冷めたら温め直せばいい",
+    "不安材料も味付け次第",
+    "",
+    "ずっと一緒にいたいけれど",
+    "毎日一緒はしんどいかも",
+    "なにかいるかい？買って行くよ",
+    "君はコーヒー僕は緑茶、いつもの",
+    "",
+    "I love making love to you",
+    "掛け違えたボタン",
+    "一つ一つ外す",
+    "恐る恐る",
+    "",
+    "自由に慣れれば慣れるほど",
+    "不自由だって、どうして誰も",
+    "僕らに教えてくれなかったの",
+    "君はコーヒー僕は緑茶、いつもの",
+    "",
+    "Tu-ru-ru-ru-tu-tu-ru (Mine or yours?)",
+    "Tu-ru-ru-ru-tu-tu-ru (Mine or yours?)",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "Tu-ru-ru-ru-tu-tu-ru (Mine or yours?)",
+    "Tu-ru-ru-ru-tu-tu-ru (Mine or yours?)",
+    "Tu-ru-ru-ru-tu-tu-ru",
+    "Tu-ru-ru-ru-tu-tu-ru"
+  ],
+  "translations": [
+    {
+      "sourceLine": 1,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 2,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 3,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 4,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 5,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 6,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 7,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 8,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 10,
+      "romaji": "Kinō no boku wa",
+      "english": "Yesterday, I was"
+    },
+    {
+      "sourceLine": 11,
+      "romaji": "Boku ga omou boku to wa kakehanarete ita",
+      "english": "Far from the person I think I am"
+    },
+    {
+      "sourceLine": 12,
+      "romaji": "Sunao ni narezu kimi o nakaseru yatsu ni wa",
+      "english": "In someone who can't be honest and makes you cry"
+    },
+    {
+      "sourceLine": 13,
+      "romaji": "Shitsubō shite iru",
+      "english": "I am disappointed"
+    },
+    {
+      "sourceLine": 15,
+      "romaji": "Jibun o daiji ni dekiru yō ni naru made",
+      "english": "Until I can learn to take care of myself"
+    },
+    {
+      "sourceLine": 16,
+      "romaji": "Nannimo mamorenai",
+      "english": "I can't protect anything"
+    },
+    {
+      "sourceLine": 18,
+      "romaji": "Nani ga tabetai? Mise sagasu yo",
+      "english": "What do you want to eat? I'll look for a place"
+    },
+    {
+      "sourceLine": 19,
+      "romaji": "Genki deru made daradara shiyō",
+      "english": "Let's just lounge around until you feel better"
+    },
+    {
+      "sourceLine": 20,
+      "romaji": "Nanika nomu kai? Oyu wakasu yo",
+      "english": "Do you want something to drink? I'll boil some water"
+    },
+    {
+      "sourceLine": 21,
+      "romaji": "Kimi wa kōhī boku wa ryokucha, itsumo no",
+      "english": "Coffee for you, green tea for me, the usual"
+    },
+    {
+      "sourceLine": 23,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 24,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 25,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 26,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 27,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 28,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 29,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 30,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 32,
+      "romaji": "Dono michi o erabō to",
+      "english": "No matter which path I choose"
+    },
+    {
+      "sourceLine": 33,
+      "romaji": "Erabanakatta michi o ushinau sabishisa to setto",
+      "english": "It comes as a set with the loneliness of losing the path not taken"
+    },
+    {
+      "sourceLine": 34,
+      "romaji": "Reiwa nannen ni nattara kono kuni de",
+      "english": "In what year of Reiwa will this country"
+    },
+    {
+      "sourceLine": 35,
+      "romaji": "Fūfu bessei OK sareru ndarō",
+      "english": "Finally allow separate surnames for married couples?"
+    },
+    {
+      "sourceLine": 37,
+      "romaji": "Sametara atatame naoseba ii",
+      "english": "If it gets cold, you can just reheat it"
+    },
+    {
+      "sourceLine": 38,
+      "romaji": "Fuan zairyō mo ajitsuke shidai",
+      "english": "Even the ingredients of anxiety depend on the seasoning"
+    },
+    {
+      "sourceLine": 40,
+      "romaji": "Zutto issho ni itai keredo",
+      "english": "I want to be with you forever, but"
+    },
+    {
+      "sourceLine": 41,
+      "romaji": "Mainichi issho wa shindoi kamo",
+      "english": "Being together every single day might be exhausting"
+    },
+    {
+      "sourceLine": 42,
+      "romaji": "Nanika iru kai? Katte iku yo",
+      "english": "Do you need anything? I'll buy it on my way"
+    },
+    {
+      "sourceLine": 43,
+      "romaji": "Kimi wa kōhī boku wa ryokucha, itsumo no",
+      "english": "Coffee for you, green tea for me, the usual"
+    },
+    {
+      "sourceLine": 45,
+      "romaji": "I love making love to you",
+      "english": "I love making love to you"
+    },
+    {
+      "sourceLine": 46,
+      "romaji": "Kakechigaeta botan",
+      "english": "Misbuttoned buttons"
+    },
+    {
+      "sourceLine": 47,
+      "romaji": "Hitotsu hitotsu hazusu",
+      "english": "Undoing them one by one"
+    },
+    {
+      "sourceLine": 48,
+      "romaji": "Osoru osoru",
+      "english": "Tremulously"
+    },
+    {
+      "sourceLine": 50,
+      "romaji": "Jiyū ni nareba nareru hodo",
+      "english": "The more I get used to freedom"
+    },
+    {
+      "sourceLine": 51,
+      "romaji": "Fujiyū datte, dōshite daremo",
+      "english": "That it's actually restrictive, why did no one"
+    },
+    {
+      "sourceLine": 52,
+      "romaji": "Bokura ni oshiete kurenakatta no",
+      "english": "Ever tell us?"
+    },
+    {
+      "sourceLine": 53,
+      "romaji": "Kimi wa kōhī boku wa ryokucha, itsumo no",
+      "english": "Coffee for you, green tea for me, the usual"
+    },
+    {
+      "sourceLine": 55,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru (Mine or yours?)",
+      "english": "Tu-ru-ru-ru-tu-tu-ru (Mine or yours?)"
+    },
+    {
+      "sourceLine": 56,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru (Mine or yours?)",
+      "english": "Tu-ru-ru-ru-tu-tu-ru (Mine or yours?)"
+    },
+    {
+      "sourceLine": 57,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 58,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 59,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru (Mine or yours?)",
+      "english": "Tu-ru-ru-ru-tu-tu-ru (Mine or yours?)"
+    },
+    {
+      "sourceLine": 60,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru (Mine or yours?)",
+      "english": "Tu-ru-ru-ru-tu-tu-ru (Mine or yours?)"
+    },
+    {
+      "sourceLine": 61,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    },
+    {
+      "sourceLine": 62,
+      "romaji": "Tu-ru-ru-ru-tu-tu-ru",
+      "english": "Tu-ru-ru-ru-tu-tu-ru"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "schema": 1,
+  "artist": "Whiteberry",
+  "track": "Natsumatsuri",
+  "lyrics": [
+    "君がいた夏は 遠い夢の中",
+    "空に消えてった 打ち上げ花火",
+    "",
+    "君の髪の香りはじけた",
+    "浴衣姿がまぶしすぎて",
+    "お祭りの夜は胸が騒いだよ",
+    "はぐれそうな人ごみの中",
+    "｢はなれないで｣出しかけた手を",
+    "ポケットに入れて握りしめていた",
+    "",
+    "君がいた夏は 遠い夢の中",
+    "空に消えてった 打ち上げ花火",
+    "",
+    "子供みたい金魚すくいに",
+    "夢中になって袖がぬれてる",
+    "無邪気な横顔がとても可愛いくて",
+    "君は好きな綿菓子買って",
+    "ご機嫌だけど 少し向こうに",
+    "友だち見つけて 離れて歩いた",
+    "",
+    "君がいた夏は 遠い夢の中",
+    "空に消えてった 打ち上げ花火",
+    "",
+    "神社の中 石段に座り",
+    "ボヤーッとした闇の中で",
+    "ざわめきが少し遠く聞こえた",
+    "線香花火マッチをつけて",
+    "色んな事話したけれど",
+    "好きだって事が言えなかった",
+    "",
+    "君がいた夏は 遠い夢の中",
+    "空に消えてった 打ち上げ花火",
+    "君がいた夏は 遠い夢の中",
+    "空に消えてった 打ち上げ花火",
+    "",
+    "空に消えてった 打ち上げ花火"
+  ],
+  "translations": [
+    {
+      "sourceLine": 1,
+      "romaji": "Kimi ga ita natsu wa tooi yume no naka",
+      "english": "The summer you were here is inside a distant dream"
+    },
+    {
+      "sourceLine": 2,
+      "romaji": "Sora ni kietetta uchiage hanabi",
+      "english": "The fireworks disappeared into the sky"
+    },
+    {
+      "sourceLine": 4,
+      "romaji": "Kimi no kami no kaori hajiketa",
+      "english": "The scent of your hair burst forth"
+    },
+    {
+      "sourceLine": 5,
+      "romaji": "Yukata sugata ga mabushisugite",
+      "english": "Your figure in a yukata was too dazzling"
+    },
+    {
+      "sourceLine": 6,
+      "romaji": "Omatsuri no yoru wa mune ga sawaida yo",
+      "english": "My heart raced on the night of the festival"
+    },
+    {
+      "sourceLine": 7,
+      "romaji": "Haguresouna hitogomi no naka",
+      "english": "In the crowd where we almost drifted apart"
+    },
+    {
+      "sourceLine": 8,
+      "romaji": "\"Hanarenaide\" dashikaketa te o",
+      "english": "\"Don't leave me\"—the hand I started to reach out"
+    },
+    {
+      "sourceLine": 9,
+      "romaji": "Poketto ni irete nigirishimete ita",
+      "english": "I put back in my pocket and squeezed tight"
+    },
+    {
+      "sourceLine": 11,
+      "romaji": "Kimi ga ita natsu wa tooi yume no naka",
+      "english": "The summer you were here is inside a distant dream"
+    },
+    {
+      "sourceLine": 12,
+      "romaji": "Sora ni kietetta uchiage hanabi",
+      "english": "The fireworks disappeared into the sky"
+    },
+    {
+      "sourceLine": 14,
+      "romaji": "Kodomo mitai kingyo sukui ni",
+      "english": "Like a child, at the goldfish scooping"
+    },
+    {
+      "sourceLine": 15,
+      "romaji": "Muchuu ni natte sode ga nureteru",
+      "english": "You were so absorbed that your sleeve got wet"
+    },
+    {
+      "sourceLine": 16,
+      "romaji": "Mujaki na yokogao ga totemo kawaikute",
+      "english": "Your innocent profile was so cute"
+    },
+    {
+      "sourceLine": 17,
+      "romaji": "Kimi wa suki na watagashi katte",
+      "english": "You bought your favorite cotton candy"
+    },
+    {
+      "sourceLine": 18,
+      "romaji": "Gokigen dakedo sukoshi mukou ni",
+      "english": "You were in a great mood, but then over there"
+    },
+    {
+      "sourceLine": 19,
+      "romaji": "Tomodachi mitsukete hanarete aruita",
+      "english": "You spotted a friend and walked away"
+    },
+    {
+      "sourceLine": 21,
+      "romaji": "Kimi ga ita natsu wa tooi yume no naka",
+      "english": "The summer you were here is inside a distant dream"
+    },
+    {
+      "sourceLine": 22,
+      "romaji": "Sora ni kietetta uchiage hanabi",
+      "english": "The fireworks disappeared into the sky"
+    },
+    {
+      "sourceLine": 24,
+      "romaji": "Jinja no naka ishidan ni suwari",
+      "english": "Sitting on the stone steps inside the shrine"
+    },
+    {
+      "sourceLine": 25,
+      "romaji": "Boyatto shita yami no naka de",
+      "english": "In the hazy darkness"
+    },
+    {
+      "sourceLine": 26,
+      "romaji": "Zawameki ga sukoshi tooku kikoeta",
+      "english": "The bustle sounded a little distant"
+    },
+    {
+      "sourceLine": 27,
+      "romaji": "Senkou hanabi matchi o tsukete",
+      "english": "Lighting a sparkler with a match"
+    },
+    {
+      "sourceLine": 28,
+      "romaji": "Ironna koto hanashita keredo",
+      "english": "We talked about many things, but"
+    },
+    {
+      "sourceLine": 29,
+      "romaji": "Suki datte koto ga ienakatta",
+      "english": "I couldn't tell you that I loved you"
+    },
+    {
+      "sourceLine": 31,
+      "romaji": "Kimi ga ita natsu wa tooi yume no naka",
+      "english": "The summer you were here is inside a distant dream"
+    },
+    {
+      "sourceLine": 32,
+      "romaji": "Sora ni kietetta uchiage hanabi",
+      "english": "The fireworks disappeared into the sky"
+    },
+    {
+      "sourceLine": 33,
+      "romaji": "Kimi ga ita natsu wa tooi yume no naka",
+      "english": "The summer you were here is inside a distant dream"
+    },
+    {
+      "sourceLine": 34,
+      "romaji": "Sora ni kietetta uchiage hanabi",
+      "english": "The fireworks disappeared into the sky"
+    },
+    {
+      "sourceLine": 36,
+      "romaji": "Sora ni kietetta uchiage hanabi",
+      "english": "The fireworks disappeared into the sky"
+    }
+  ]
+}

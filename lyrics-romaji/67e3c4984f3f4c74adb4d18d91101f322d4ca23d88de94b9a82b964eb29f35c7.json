@@ -1,0 +1,477 @@
+{
+  "schema": 1,
+  "artist": "Taiki Shuttle (CV: Yuka Otsubo), Grass Wonder (CV: Rena Maeda), Hishi Amazon (CV: Yuiko Tatsumi), El Condor Pasa (CV: Minami Takahashi), Seeking the Pearl (CV: Ayaka Fukuhara), Espoir City (CV: Asaka), Symboli Kris S (CV: Meiku Harukawa), Tap Dance City (CV: Minami Shinoda), Cesario (CV: Haruka Sato), Loves Only You (CV: Miyu Kubota), Red Desire (CV: Hitomi Sekine), Forever Young (CV: Shuri Miyumi) & Marche Lorraine (CV: Tsukino Chikasada)",
+  "track": "UMA IN AMERICA",
+  "lyrics": [
+    "Everybody! U! U! U! U! U! U! U!",
+    "Everybody! U! U! U! U Woo～～～",
+    "U U U U U U U U U U U UMA! (Yeah!)",
+    "U U U UMA! U U U U U UMA! (Hoo!)",
+    "U U U U U U U U U U U UMA! (Yeah!)",
+    "U U U UMA! UMA IN AMERICA!",
+    "ヘイヘイヘイ 世界のみんな~",
+    "日本から来たUMAMUSUMEだよ! (Yeah!!)",
+    "Say Hey! (Hey!)",
+    "Say Ooh! (Ooh!)",
+    "(おーっBANG!) ",
+    "世界への登場は派手でなくちゃ",
+    "この勢いがマイ・エンジン (Vroom!)",
+    "YOU(きみたち)に見せたい大事なこと",
+    "それが足と胸のドンドコドンドコドン！ (Wooh!)",
+    "U U U U U U U U U U U UMA! (Yeah!)",
+    "U U U UMA! UMA IN AMERICA! ",
+    "ステージの上から（Let's Go!)",
+    "世界の向こうまで（Ooh Ooh!）",
+    "遠く届けこのキモチ！",
+    "DOKI DOKI DOKI ",
+    "あたしがスーパー・スーパー・スーパーヒーローみた～～～い！ (Hoo)",
+    "ゴールにギュンとガーンとガツンと行くぜ～～～よ！ (Hoo)",
+    "YOU(きみ)だけそばにおいで！",
+    "GOAL(さき)をしめせ！",
+    "ライン突破！とっぱとっぱしてみせ～～てやる！ ",
+    "みんなの声で！ (Wooh)",
+    "U-MA-MU-SU-ME! (Yeah Ho)",
+    "声を重ねて！ (Wooh)",
+    "U-S-A! おーっBANG! ",
+    "U U U U U U U U U U U UMA! (Yeah!)",
+    "U U U UMA! U U U U U UMA! (Hoo!)",
+    "U U U U U U U U U U U UMA! (Yeah!)",
+    "U U U UMA! UMA IN AMERICA! ",
+    "まだまだ旅が続くよ!",
+    "準備OK? (Yeah!) GO!",
+    "風切って大地巡って探してる",
+    "夢をかけるライバル",
+    "どんなに速くても孤独の走者",
+    "あたしと対決だよ!",
+    "U U U UMA... U U U U UMA...",
+    "U U U UMA...! One More Time!",
+    "ステージの上から（Let's Go!)",
+    "世界の向こうまで（Ooh Ooh!）",
+    "遠く届けこのキモチ！",
+    "DOKI DOKI DOKI ",
+    "あたしがスーパー・スーパー・スーパーヒーローみた～～～い！ (Hoo)",
+    "キモチ丸出しズッキューンでも良い～～～ぜ! (Hoo)",
+    "YOU(きみ)だけそばにおいで！ (Ooh?!)",
+    "ココロ開け! (Let's go!)",
+    "ライン突破！とっぱとっぱしてみせ～～てやる！",
+    "みんなの声で！ (Wooh)",
+    "U-MA-MU-SU-ME! (Yeah Ho)",
+    "声を重ねて！ (Wooh)",
+    "U-S-A! (Yeah Ho)",
+    "Go Go Go Go UMA Go! (One More Time!)",
+    "世界の向こうから (Let's Go!)",
+    "キミの夢に出るまで (Ooh Ooh!)",
+    "書き込むぞこのメッセージ!",
+    "Doki Doki Doki Doki",
+    "DOKI DOKI DOKI ",
+    "あたしがスーパー・スーパー・スーパーヒーローみた～～～い！ (Hoo)",
+    "ゴールにギュンとガーンとガツンと行くぜ～～～よ！ (Hoo)",
+    "YOU(きみ)だけそばにおいで！ (Ooh?!)",
+    "GOAL(さき)をしめせ！ (Let's go!)",
+    "ライン突破！とっぱとっぱしてみせ～～てやる！ ",
+    "みんなの声で！ (Wooh)",
+    "U-MA-MU-SU-ME! (Yeah Ho)",
+    "声を重ねて！ (Wooh)",
+    "U-S-A! おーっBANG! ",
+    "U U U U U U U U U U U UMA! (Yeah!)",
+    "U U U UMA! U U U U U UMA! (Hoo!)",
+    "U U U U U U U U U U U UMA! (Yeah!)",
+    "U U U UMA! UMA IN AMERICA! ",
+    "サンキューーー みんな! もう一回盛り上げよう!",
+    "Say U!",
+    "M!",
+    "A! "
+  ],
+  "translations": [
+    {
+      "sourceLine": 1,
+      "romaji": "Everybody! U! U! U! U! U! U! U!",
+      "english": "Everybody! U! U! U! U! U! U! U!"
+    },
+    {
+      "sourceLine": 2,
+      "romaji": "Everybody! U! U! U! U Woo～～～",
+      "english": "Everybody! U! U! U! U Woo～～～"
+    },
+    {
+      "sourceLine": 3,
+      "romaji": "U U U U U U U U U U U UMA! (Yeah!)",
+      "english": "U U U U U U U U U U U UMA! (Yeah!)"
+    },
+    {
+      "sourceLine": 4,
+      "romaji": "U U U UMA! U U U U U UMA! (Hoo!)",
+      "english": "U U U UMA! U U U U U UMA! (Hoo!)"
+    },
+    {
+      "sourceLine": 5,
+      "romaji": "U U U U U U U U U U U UMA! (Yeah!)",
+      "english": "U U U U U U U U U U U UMA! (Yeah!)"
+    },
+    {
+      "sourceLine": 6,
+      "romaji": "U U U UMA! UMA IN AMERICA!",
+      "english": "U U U UMA! UMA IN AMERICA!"
+    },
+    {
+      "sourceLine": 7,
+      "romaji": "Hei hei hei sekai no minna~",
+      "english": "Hey hey hey, everyone in the world~"
+    },
+    {
+      "sourceLine": 8,
+      "romaji": "Nihon kara kita UMAMUSUME dayo! (Yeah!!)",
+      "english": "I'm an UMAMUSUME from Japan! (Yeah!!)"
+    },
+    {
+      "sourceLine": 9,
+      "romaji": "Say Hey! (Hey!)",
+      "english": "Say Hey! (Hey!)"
+    },
+    {
+      "sourceLine": 10,
+      "romaji": "Say Ooh! (Ooh!)",
+      "english": "Say Ooh! (Ooh!)"
+    },
+    {
+      "sourceLine": 11,
+      "romaji": "(Ō BANG!)",
+      "english": "(Oh BANG!)"
+    },
+    {
+      "sourceLine": 12,
+      "romaji": "Sekai e no tōjō wa hade de nakucha",
+      "english": "My debut to the world has to be flashy"
+    },
+    {
+      "sourceLine": 13,
+      "romaji": "Kono ikioi ga mai enjin (Vroom!)",
+      "english": "This momentum is my engine (Vroom!)"
+    },
+    {
+      "sourceLine": 14,
+      "romaji": "YOU (kimitachi) ni misetai daiji na koto",
+      "english": "There's something important I want to show YOU (all of you)"
+    },
+    {
+      "sourceLine": 15,
+      "romaji": "Sore ga ashi to mune no dondoko dondoko don! (Wooh!)",
+      "english": "And that's the thumping beat of my legs and heart! (Wooh!)"
+    },
+    {
+      "sourceLine": 16,
+      "romaji": "U U U U U U U U U U U UMA! (Yeah!)",
+      "english": "U U U U U U U U U U U UMA! (Yeah!)"
+    },
+    {
+      "sourceLine": 17,
+      "romaji": "U U U UMA! UMA IN AMERICA!",
+      "english": "U U U UMA! UMA IN AMERICA!"
+    },
+    {
+      "sourceLine": 18,
+      "romaji": "Sutēji no ue kara (Let's Go!)",
+      "english": "From atop the stage (Let's Go!)"
+    },
+    {
+      "sourceLine": 19,
+      "romaji": "Sekai no mukō made (Ooh Ooh!)",
+      "english": "To the other side of the world (Ooh Ooh!)"
+    },
+    {
+      "sourceLine": 20,
+      "romaji": "Tōku todoke kono kimochi!",
+      "english": "Let these feelings reach far and wide!"
+    },
+    {
+      "sourceLine": 21,
+      "romaji": "DOKI DOKI DOKI",
+      "english": "DOKI DOKI DOKI"
+    },
+    {
+      "sourceLine": 22,
+      "romaji": "Atashi ga sūpā sūpā sūpā hīrō mita~~~i! (Hoo)",
+      "english": "I'm just like a super, super, super hero! (Hoo)"
+    },
+    {
+      "sourceLine": 23,
+      "romaji": "Gōru ni gyun to gān to gatsun to iku ze~~~yo! (Hoo)",
+      "english": "I'm gonna blast straight through to the goal! (Hoo)"
+    },
+    {
+      "sourceLine": 24,
+      "romaji": "YOU (kimi) dake soba ni oide!",
+      "english": "Only YOU (you) come close to me!"
+    },
+    {
+      "sourceLine": 25,
+      "romaji": "GOAL (saki) o shimese!",
+      "english": "Show me the GOAL (the way ahead)!"
+    },
+    {
+      "sourceLine": 26,
+      "romaji": "Rain toppa! Toppa toppa shite mise~~~te yaru!",
+      "english": "Breaking the line! I'll show you I can break right through!"
+    },
+    {
+      "sourceLine": 27,
+      "romaji": "Minna no koe de! (Wooh)",
+      "english": "With everyone's voices! (Wooh)"
+    },
+    {
+      "sourceLine": 28,
+      "romaji": "U-MA-MU-SU-ME! (Yeah Ho)",
+      "english": "U-MA-MU-SU-ME! (Yeah Ho)"
+    },
+    {
+      "sourceLine": 29,
+      "romaji": "Koe o kasanete! (Wooh)",
+      "english": "Layer your voices! (Wooh)"
+    },
+    {
+      "sourceLine": 30,
+      "romaji": "U-S-A! Ō BANG!",
+      "english": "U-S-A! Oh BANG!"
+    },
+    {
+      "sourceLine": 31,
+      "romaji": "U U U U U U U U U U U UMA! (Yeah!)",
+      "english": "U U U U U U U U U U U UMA! (Yeah!)"
+    },
+    {
+      "sourceLine": 32,
+      "romaji": "U U U UMA! U U U U U UMA! (Hoo!)",
+      "english": "U U U UMA! U U U U U UMA! (Hoo!)"
+    },
+    {
+      "sourceLine": 33,
+      "romaji": "U U U U U U U U U U U UMA! (Yeah!)",
+      "english": "U U U U U U U U U U U UMA! (Yeah!)"
+    },
+    {
+      "sourceLine": 34,
+      "romaji": "U U U UMA! UMA IN AMERICA!",
+      "english": "U U U UMA! UMA IN AMERICA!"
+    },
+    {
+      "sourceLine": 35,
+      "romaji": "Madamada tabi ga tsuzuku yo!",
+      "english": "The journey continues still!"
+    },
+    {
+      "sourceLine": 36,
+      "romaji": "Junbi OK? (Yeah!) GO!",
+      "english": "Ready? (Yeah!) GO!"
+    },
+    {
+      "sourceLine": 37,
+      "romaji": "Kaze kitte daichi megutte sagashiteru",
+      "english": "Cutting through the wind, roaming the earth, I'm searching"
+    },
+    {
+      "sourceLine": 38,
+      "romaji": "Yume o kakeru raibaru",
+      "english": "For a rival who chases their dreams"
+    },
+    {
+      "sourceLine": 39,
+      "romaji": "Donna ni hayakute mo kodoku no sōsha",
+      "english": "No matter how fast, a lonely runner"
+    },
+    {
+      "sourceLine": 40,
+      "romaji": "Atashi to taiketsu dayo!",
+      "english": "It's time to face off against me!"
+    },
+    {
+      "sourceLine": 41,
+      "romaji": "U U U UMA... U U U U UMA...",
+      "english": "U U U UMA... U U U U UMA..."
+    },
+    {
+      "sourceLine": 42,
+      "romaji": "U U U UMA...! One More Time!",
+      "english": "U U U UMA...! One More Time!"
+    },
+    {
+      "sourceLine": 43,
+      "romaji": "Sutēji no ue kara (Let's Go!)",
+      "english": "From atop the stage (Let's Go!)"
+    },
+    {
+      "sourceLine": 44,
+      "romaji": "Sekai no mukō made (Ooh Ooh!)",
+      "english": "To the other side of the world (Ooh Ooh!)"
+    },
+    {
+      "sourceLine": 45,
+      "romaji": "Tōku todoke kono kimochi!",
+      "english": "Let these feelings reach far and wide!"
+    },
+    {
+      "sourceLine": 46,
+      "romaji": "DOKI DOKI DOKI",
+      "english": "DOKI DOKI DOKI"
+    },
+    {
+      "sourceLine": 47,
+      "romaji": "Atashi ga sūpā sūpā sūpā hīrō mita~~~i! (Hoo)",
+      "english": "I'm just like a super, super, super hero! (Hoo)"
+    },
+    {
+      "sourceLine": 48,
+      "romaji": "Kimochi marudashi zukkyūn demo ii~~~ze! (Hoo)",
+      "english": "I don't mind if my feelings come out as a total heart-strike! (Hoo)"
+    },
+    {
+      "sourceLine": 49,
+      "romaji": "YOU (kimi) dake soba ni oide! (Ooh?!)",
+      "english": "Only YOU (you) come close to me! (Ooh?!)"
+    },
+    {
+      "sourceLine": 50,
+      "romaji": "Kokoro ake! (Let's go!)",
+      "english": "Open your heart! (Let's go!)"
+    },
+    {
+      "sourceLine": 51,
+      "romaji": "Rain toppa! Toppa toppa shite mise~~~te yaru!",
+      "english": "Breaking the line! I'll show you I can break right through!"
+    },
+    {
+      "sourceLine": 52,
+      "romaji": "Minna no koe de! (Wooh)",
+      "english": "With everyone's voices! (Wooh)"
+    },
+    {
+      "sourceLine": 53,
+      "romaji": "U-MA-MU-SU-ME! (Yeah Ho)",
+      "english": "U-MA-MU-SU-ME! (Yeah Ho)"
+    },
+    {
+      "sourceLine": 54,
+      "romaji": "Koe o kasanete! (Wooh)",
+      "english": "Layer your voices! (Wooh)"
+    },
+    {
+      "sourceLine": 55,
+      "romaji": "U-S-A! (Yeah Ho)",
+      "english": "U-S-A! (Yeah Ho)"
+    },
+    {
+      "sourceLine": 56,
+      "romaji": "Go Go Go Go UMA Go! (One More Time!)",
+      "english": "Go Go Go Go UMA Go! (One More Time!)"
+    },
+    {
+      "sourceLine": 57,
+      "romaji": "Sekai no mukō kara (Let's Go!)",
+      "english": "From the other side of the world (Let's Go!)"
+    },
+    {
+      "sourceLine": 58,
+      "romaji": "Kimi no yume ni deru made (Ooh Ooh!)",
+      "english": "Until I appear in your dreams (Ooh Ooh!)"
+    },
+    {
+      "sourceLine": 59,
+      "romaji": "Kakikomu zo kono messēji!",
+      "english": "I'm going to write this message!"
+    },
+    {
+      "sourceLine": 60,
+      "romaji": "Doki Doki Doki Doki",
+      "english": "Doki Doki Doki Doki"
+    },
+    {
+      "sourceLine": 61,
+      "romaji": "DOKI DOKI DOKI",
+      "english": "DOKI DOKI DOKI"
+    },
+    {
+      "sourceLine": 62,
+      "romaji": "Atashi ga sūpā sūpā sūpā hīrō mita~~~i! (Hoo)",
+      "english": "I'm just like a super, super, super hero! (Hoo)"
+    },
+    {
+      "sourceLine": 63,
+      "romaji": "Gōru ni gyun to gān to gatsun to iku ze~~~yo! (Hoo)",
+      "english": "I'm gonna blast straight through to the goal! (Hoo)"
+    },
+    {
+      "sourceLine": 64,
+      "romaji": "YOU (kimi) dake soba ni oide! (Ooh?!)",
+      "english": "Only YOU (you) come close to me! (Ooh?!)"
+    },
+    {
+      "sourceLine": 65,
+      "romaji": "GOAL (saki) o shimese! (Let's go!)",
+      "english": "Show me the GOAL (the way ahead)! (Let's go!)"
+    },
+    {
+      "sourceLine": 66,
+      "romaji": "Rain toppa! Toppa toppa shite mise~~~te yaru!",
+      "english": "Breaking the line! I'll show you I can break right through!"
+    },
+    {
+      "sourceLine": 67,
+      "romaji": "Minna no koe de! (Wooh)",
+      "english": "With everyone's voices! (Wooh)"
+    },
+    {
+      "sourceLine": 68,
+      "romaji": "U-MA-MU-SU-ME! (Yeah Ho)",
+      "english": "U-MA-MU-SU-ME! (Yeah Ho)"
+    },
+    {
+      "sourceLine": 69,
+      "romaji": "Koe o kasanete! (Wooh)",
+      "english": "Layer your voices! (Wooh)"
+    },
+    {
+      "sourceLine": 70,
+      "romaji": "U-S-A! Ō BANG!",
+      "english": "U-S-A! Oh BANG!"
+    },
+    {
+      "sourceLine": 71,
+      "romaji": "U U U U U U U U U U U UMA! (Yeah!)",
+      "english": "U U U U U U U U U U U UMA! (Yeah!)"
+    },
+    {
+      "sourceLine": 72,
+      "romaji": "U U U UMA! U U U U U UMA! (Hoo!)",
+      "english": "U U U UMA! U U U U U UMA! (Hoo!)"
+    },
+    {
+      "sourceLine": 73,
+      "romaji": "U U U U U U U U U U U UMA! (Yeah!)",
+      "english": "U U U U U U U U U U U UMA! (Yeah!)"
+    },
+    {
+      "sourceLine": 74,
+      "romaji": "U U U UMA! UMA IN AMERICA!",
+      "english": "U U U UMA! UMA IN AMERICA!"
+    },
+    {
+      "sourceLine": 75,
+      "romaji": "Sankyūーー minna! Mō ikkai moriageyō!",
+      "english": "Thank youーー everyone! Let's get hyped one more time!"
+    },
+    {
+      "sourceLine": 76,
+      "romaji": "Say U!",
+      "english": "Say U!"
+    },
+    {
+      "sourceLine": 77,
+      "romaji": "M!",
+      "english": "M!"
+    },
+    {
+      "sourceLine": 78,
+      "romaji": "A!",
+      "english": "A!"
+    }
+  ]
+}

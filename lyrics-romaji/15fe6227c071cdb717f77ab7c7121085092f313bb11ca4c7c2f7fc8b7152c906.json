@@ -1,0 +1,396 @@
+{
+  "schema": 1,
+  "artist": "SHAZNA",
+  "track": "Melty Love",
+  "lyrics": [
+    "Melty Love... Melty Love... Melty Love...",
+    "Melty Love... Melty Love... Melty Love...",
+    "Melty Love... Melty Love... Melty Love...",
+    "Melty Love... Melty Love... Melty Love...",
+    "",
+    "君があこがれてた恋を",
+    "今追いかけてゆこうか",
+    "たとえば僕と2人で",
+    "変わらない景色",
+    "肌をくすぐる春風の",
+    "中で君をつかまえた",
+    "",
+    "ひと目でおちた君の大きな瞳に恋した",
+    "午後の胸さわぎ 戸惑い隠せず",
+    "君は気づいて髪をかき上げ微笑む",
+    "",
+    "2人が夢見てる恋は",
+    "淡く優しい春色",
+    "変わることなくいたいね",
+    "僕は君のこと",
+    "大切に思う今なら",
+    "何を失くしてもいい",
+    "",
+    "ひと目でおちた君の大きな瞳に恋した",
+    "午後の胸さわぎ 戸惑いを隠せず",
+    "君の微かな鼓動がきこえた",
+    "夜を止めてずっと夢の中へ",
+    "",
+    "Melty Love",
+    "離さない 離さない",
+    "愛らしい君の笑顔",
+    "少しだけ 想い出す",
+    "ピュアなあの気持ち",
+    "Melty Love",
+    "恋焦がれ 恋焦がれ",
+    "退屈な恋じゃなくて",
+    "愛しくて 愛しくて",
+    "夜も眠れない...",
+    "Melty Love",
+    "",
+    "Melty Love... Melty Love... Melty Love...",
+    "Melty Love... Melty Love... Melty Love...",
+    "Melty Love... Melty Love... Melty Love...",
+    "Melty Love... Melty Love... Melty Love...",
+    "",
+    "空が黒く染まり",
+    "碧い月に向かう所",
+    "白い星が降りそそぐ中",
+    "冷めた風が2人溶かして",
+    "",
+    "Melty Love",
+    "離さない 離さない",
+    "愛らしい君の笑顔",
+    "少しだけ 想い出す",
+    "ピュアなあの気持ち",
+    "Melty Love",
+    "恋焦がれ 恋焦がれ",
+    "退屈な恋じゃなくて",
+    "愛しくて 愛しくて",
+    "夜も眠れない...",
+    "Melty Love... Melty Love... Melty Love...",
+    "Uh... Melty Love...",
+    "Melty Love... Melty Love... Melty Love...",
+    "",
+    "Melty Love, Melty Love...",
+    "Melty Love, Melty Love...",
+    "Melty Love, Melty Love...",
+    "Melty Love, Melty Love...",
+    "Melty Love, Melty Love...",
+    "Melty Love, Melty Love...",
+    "Melty Love, Melty Love...",
+    "Melty Love, Melty Love..."
+  ],
+  "translations": [
+    {
+      "sourceLine": 1,
+      "romaji": "Melty Love... Melty Love... Melty Love...",
+      "english": "Melty Love... Melty Love... Melty Love..."
+    },
+    {
+      "sourceLine": 2,
+      "romaji": "Melty Love... Melty Love... Melty Love...",
+      "english": "Melty Love... Melty Love... Melty Love..."
+    },
+    {
+      "sourceLine": 3,
+      "romaji": "Melty Love... Melty Love... Melty Love...",
+      "english": "Melty Love... Melty Love... Melty Love..."
+    },
+    {
+      "sourceLine": 4,
+      "romaji": "Melty Love... Melty Love... Melty Love...",
+      "english": "Melty Love... Melty Love... Melty Love..."
+    },
+    {
+      "sourceLine": 6,
+      "romaji": "Kimi ga akogareteta koi o",
+      "english": "The love you longed for"
+    },
+    {
+      "sourceLine": 7,
+      "romaji": "Ima oikakete yukou ka",
+      "english": "Shall we go chase it now?"
+    },
+    {
+      "sourceLine": 8,
+      "romaji": "Tatoeba boku to futari de",
+      "english": "For example, just the two of us"
+    },
+    {
+      "sourceLine": 9,
+      "romaji": "Kawaranai keshiki",
+      "english": "An unchanging landscape"
+    },
+    {
+      "sourceLine": 10,
+      "romaji": "Hada o kusuguru harukaze no",
+      "english": "In the spring breeze that tickles the skin"
+    },
+    {
+      "sourceLine": 11,
+      "romaji": "Naka de kimi o tsukamaeta",
+      "english": "I caught hold of you"
+    },
+    {
+      "sourceLine": 13,
+      "romaji": "Hitome de ochita kimi no ookina hitomi ni koishita",
+      "english": "I fell in love at first sight with your large eyes"
+    },
+    {
+      "sourceLine": 14,
+      "romaji": "Gogo no munesawagi tomadoi kakusezu",
+      "english": "Afternoon restlessness, unable to hide the confusion"
+    },
+    {
+      "sourceLine": 15,
+      "romaji": "Kimi wa kizuite kami o kakiage hohoemu",
+      "english": "You notice, brush back your hair, and smile"
+    },
+    {
+      "sourceLine": 17,
+      "romaji": "Futari ga yumemiteru koi wa",
+      "english": "The love the two of us dream of"
+    },
+    {
+      "sourceLine": 18,
+      "romaji": "Awaku yasashii haruiro",
+      "english": "Is a pale, gentle spring color"
+    },
+    {
+      "sourceLine": 19,
+      "romaji": "Kawaru koto naku itai ne",
+      "english": "I want us to stay this way without changing"
+    },
+    {
+      "sourceLine": 20,
+      "romaji": "Boku wa kimi no koto",
+      "english": "As for you"
+    },
+    {
+      "sourceLine": 21,
+      "romaji": "Taisetsu ni omou ima nara",
+      "english": "I cherish you so much that right now"
+    },
+    {
+      "sourceLine": 22,
+      "romaji": "Nani o nakushite mo ii",
+      "english": "I wouldn't mind losing anything"
+    },
+    {
+      "sourceLine": 24,
+      "romaji": "Hitome de ochita kimi no ookina hitomi ni koishita",
+      "english": "I fell in love at first sight with your large eyes"
+    },
+    {
+      "sourceLine": 25,
+      "romaji": "Gogo no munesawagi tomadoi o kakusezu",
+      "english": "Afternoon restlessness, unable to hide the confusion"
+    },
+    {
+      "sourceLine": 26,
+      "romaji": "Kimi no kasukana kodou ga kikoeta",
+      "english": "I heard your faint heartbeat"
+    },
+    {
+      "sourceLine": 27,
+      "romaji": "Yoru o tomete zutto yume no naka e",
+      "english": "Stop the night and take me forever into a dream"
+    },
+    {
+      "sourceLine": 29,
+      "romaji": "Melty Love",
+      "english": "Melty Love"
+    },
+    {
+      "sourceLine": 30,
+      "romaji": "Hanasanai hanasanai",
+      "english": "I won't let go, I won't let go"
+    },
+    {
+      "sourceLine": 31,
+      "romaji": "Airashii kimi no egao",
+      "english": "Your lovely smile"
+    },
+    {
+      "sourceLine": 32,
+      "romaji": "Sukoshi dake omoidasu",
+      "english": "I remember it just a little"
+    },
+    {
+      "sourceLine": 33,
+      "romaji": "Pyua na ano kimochi",
+      "english": "Those pure feelings"
+    },
+    {
+      "sourceLine": 34,
+      "romaji": "Melty Love",
+      "english": "Melty Love"
+    },
+    {
+      "sourceLine": 35,
+      "romaji": "Koikogare koikogare",
+      "english": "Yearning, yearning"
+    },
+    {
+      "sourceLine": 36,
+      "romaji": "Taikutsu na koi janakute",
+      "english": "Not some boring kind of love"
+    },
+    {
+      "sourceLine": 37,
+      "romaji": "Itoshikute itoshikute",
+      "english": "So dear, so dear to me"
+    },
+    {
+      "sourceLine": 38,
+      "romaji": "Yoru mo nemurenai...",
+      "english": "I can't even sleep at night..."
+    },
+    {
+      "sourceLine": 39,
+      "romaji": "Melty Love",
+      "english": "Melty Love"
+    },
+    {
+      "sourceLine": 41,
+      "romaji": "Melty Love... Melty Love... Melty Love...",
+      "english": "Melty Love... Melty Love... Melty Love..."
+    },
+    {
+      "sourceLine": 42,
+      "romaji": "Melty Love... Melty Love... Melty Love...",
+      "english": "Melty Love... Melty Love... Melty Love..."
+    },
+    {
+      "sourceLine": 43,
+      "romaji": "Melty Love... Melty Love... Melty Love...",
+      "english": "Melty Love... Melty Love... Melty Love..."
+    },
+    {
+      "sourceLine": 44,
+      "romaji": "Melty Love... Melty Love... Melty Love...",
+      "english": "Melty Love... Melty Love... Melty Love..."
+    },
+    {
+      "sourceLine": 46,
+      "romaji": "Sora ga kuroku somari",
+      "english": "The sky is dyed black"
+    },
+    {
+      "sourceLine": 47,
+      "romaji": "Aoi tsuki ni mukau tokoro",
+      "english": "Heading toward the blue moon"
+    },
+    {
+      "sourceLine": 48,
+      "romaji": "Shiroi hoshi ga furisosogu naka",
+      "english": "While the white stars rain down"
+    },
+    {
+      "sourceLine": 49,
+      "romaji": "Sameta kaze ga futari tokashite",
+      "english": "The chilled wind melts the two of us"
+    },
+    {
+      "sourceLine": 51,
+      "romaji": "Melty Love",
+      "english": "Melty Love"
+    },
+    {
+      "sourceLine": 52,
+      "romaji": "Hanasanai hanasanai",
+      "english": "I won't let go, I won't let go"
+    },
+    {
+      "sourceLine": 53,
+      "romaji": "Airashii kimi no egao",
+      "english": "Your lovely smile"
+    },
+    {
+      "sourceLine": 54,
+      "romaji": "Sukoshi dake omoidasu",
+      "english": "I remember it just a little"
+    },
+    {
+      "sourceLine": 55,
+      "romaji": "Pyua na ano kimochi",
+      "english": "Those pure feelings"
+    },
+    {
+      "sourceLine": 56,
+      "romaji": "Melty Love",
+      "english": "Melty Love"
+    },
+    {
+      "sourceLine": 57,
+      "romaji": "Koikogare koikogare",
+      "english": "Yearning, yearning"
+    },
+    {
+      "sourceLine": 58,
+      "romaji": "Taikutsu na koi janakute",
+      "english": "Not some boring kind of love"
+    },
+    {
+      "sourceLine": 59,
+      "romaji": "Itoshikute itoshikute",
+      "english": "So dear, so dear to me"
+    },
+    {
+      "sourceLine": 60,
+      "romaji": "Yoru mo nemurenai...",
+      "english": "I can't even sleep at night..."
+    },
+    {
+      "sourceLine": 61,
+      "romaji": "Melty Love... Melty Love... Melty Love...",
+      "english": "Melty Love... Melty Love... Melty Love..."
+    },
+    {
+      "sourceLine": 62,
+      "romaji": "Uh... Melty Love...",
+      "english": "Uh... Melty Love..."
+    },
+    {
+      "sourceLine": 63,
+      "romaji": "Melty Love... Melty Love... Melty Love...",
+      "english": "Melty Love... Melty Love... Melty Love..."
+    },
+    {
+      "sourceLine": 65,
+      "romaji": "Melty Love, Melty Love...",
+      "english": "Melty Love, Melty Love..."
+    },
+    {
+      "sourceLine": 66,
+      "romaji": "Melty Love, Melty Love...",
+      "english": "Melty Love, Melty Love..."
+    },
+    {
+      "sourceLine": 67,
+      "romaji": "Melty Love, Melty Love...",
+      "english": "Melty Love, Melty Love..."
+    },
+    {
+      "sourceLine": 68,
+      "romaji": "Melty Love, Melty Love...",
+      "english": "Melty Love, Melty Love..."
+    },
+    {
+      "sourceLine": 69,
+      "romaji": "Melty Love, Melty Love...",
+      "english": "Melty Love, Melty Love..."
+    },
+    {
+      "sourceLine": 70,
+      "romaji": "Melty Love, Melty Love...",
+      "english": "Melty Love, Melty Love..."
+    },
+    {
+      "sourceLine": 71,
+      "romaji": "Melty Love, Melty Love...",
+      "english": "Melty Love, Melty Love..."
+    },
+    {
+      "sourceLine": 72,
+      "romaji": "Melty Love, Melty Love...",
+      "english": "Melty Love, Melty Love..."
+    }
+  ]
+}

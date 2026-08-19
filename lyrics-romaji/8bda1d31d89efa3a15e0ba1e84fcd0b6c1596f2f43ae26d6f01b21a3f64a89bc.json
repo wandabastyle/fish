@@ -1,0 +1,295 @@
+{
+  "schema": 1,
+  "artist": "Ado",
+  "track": "Dried Flowers",
+  "lyrics": [
+    "",
+    "",
+    "",
+    "",
+    "Tabun, watashi janakute ii ne",
+    "Yoyuu no nai futari datta shi",
+    "Kizukeba kenka bakkari shite sa",
+    "Gomen ne",
+    "Zutto hanasou to omotteta",
+    "Kitto watashitachi awanai ne",
+    "Futari kiri shika inai heya de sa",
+    "Anata bakari hanashite ita yo ne",
+    "Moshi itsuka dokoka de aetara",
+    "Kyou no koto wo waratte kureru kana",
+    "Riyuu mo chanto hanasenai keredo",
+    "Anata ga nemutta ato ni naku no wa iya",
+    "Koe mo kao mo bukiyou na toko mo",
+    "Zenbu zenbu kirai janai no",
+    "Dorai furawaa mitai",
+    "Kimi to no hibi mo kitto, kitto, kitto, kitto",
+    "Iroaseru",
+    "Mm, ha, ha, ha",
+    "Tabun, kimi janakute yokatta",
+    "Mou nakasareru koto mo nai shi",
+    "\"Watashi bakari\" nante kotoba mo",
+    "nakunatta",
+    "Anna ni kanashii wakare demo",
+    "Jikan ga tateba wasureteku",
+    "Atarashii hito to narabu kimi wa",
+    "Chanto umaku yarete iru no kana",
+    "Mou kao mo mitakunai kara sa",
+    "Hen ni renraku shite konaide hoshii",
+    "Tsugou ga ii no wa kawattenain da ne",
+    "Demo mushi dekizu ni mata sukoshi henji",
+    "Koe mo kao mo bukiyou na toko mo",
+    "Tabun ima mo kirai janai no",
+    "Dorai furawaa mitaku",
+    "Jikan ga tateba kitto, kitto, kitto, kitto",
+    "Iroaseru oh-oh",
+    "Tsuki akari ni mamono ga yureru",
+    "Kitto watashi mo douka shiteru",
+    "Kurayami ni shikisai ga ukabu",
+    "Aka ki aiiro ga mune no oku",
+    "Zutto anata no namae wo yobu",
+    "Suki to iu kimochi",
+    "Mata kaoru oh",
+    "Koe mo kao mo bukiyou na toko mo",
+    "Zenbu zenbu daikirai da yo",
+    "Mada karenai hana wo",
+    "Kimi ni soete sa zutto, zutto, zutto, zutto",
+    "Kakaete yo ah-ah, ah-ah"
+  ],
+  "translations": [
+    {
+      "sourceLine": 5,
+      "romaji": "Tabun, watashi janakute ii ne",
+      "english": "Perhaps it doesn't have to be me"
+    },
+    {
+      "sourceLine": 6,
+      "romaji": "Yoyuu no nai futari datta shi",
+      "english": "We were both just too strained"
+    },
+    {
+      "sourceLine": 7,
+      "romaji": "Kizukeba kenka bakkari shite sa",
+      "english": "Before I knew it, we did nothing but fight"
+    },
+    {
+      "sourceLine": 8,
+      "romaji": "Gomen ne",
+      "english": "I'm sorry"
+    },
+    {
+      "sourceLine": 9,
+      "romaji": "Zutto hanasou to omotteta",
+      "english": "I've been wanting to talk to you for a long time"
+    },
+    {
+      "sourceLine": 10,
+      "romaji": "Kitto watashitachi awanai ne",
+      "english": "I'm sure we won't meet again"
+    },
+    {
+      "sourceLine": 11,
+      "romaji": "Futari kiri shika inai heya de sa",
+      "english": "In a room where it was just the two of us"
+    },
+    {
+      "sourceLine": 12,
+      "romaji": "Anata bakari hanashite ita yo ne",
+      "english": "You were the only one doing all the talking, weren't you?"
+    },
+    {
+      "sourceLine": 13,
+      "romaji": "Moshi itsuka dokoka de aetara",
+      "english": "If we happen to meet somewhere someday"
+    },
+    {
+      "sourceLine": 14,
+      "romaji": "Kyou no koto wo waratte kureru kana",
+      "english": "I wonder if you'll be able to laugh about today"
+    },
+    {
+      "sourceLine": 15,
+      "romaji": "Riyuu mo chanto hanasenai keredo",
+      "english": "I can't even explain the reason properly, but"
+    },
+    {
+      "sourceLine": 16,
+      "romaji": "Anata ga nemutta ato ni naku no wa iya",
+      "english": "I don't want to cry after you've fallen asleep"
+    },
+    {
+      "sourceLine": 17,
+      "romaji": "Koe mo kao mo bukiyou na toko mo",
+      "english": "Your voice, your face, and your clumsy side"
+    },
+    {
+      "sourceLine": 18,
+      "romaji": "Zenbu zenbu kirai janai no",
+      "english": "I don't hate any of it, not any of it"
+    },
+    {
+      "sourceLine": 19,
+      "romaji": "Dorai furawaa mitai",
+      "english": "Like dried flowers"
+    },
+    {
+      "sourceLine": 20,
+      "romaji": "Kimi to no hibi mo kitto, kitto, kitto, kitto",
+      "english": "The days with you will surely, surely, surely, surely"
+    },
+    {
+      "sourceLine": 21,
+      "romaji": "Iroaseru",
+      "english": "Fade away"
+    },
+    {
+      "sourceLine": 22,
+      "romaji": "Mm, ha, ha, ha",
+      "english": "Mm, ha, ha, ha"
+    },
+    {
+      "sourceLine": 23,
+      "romaji": "Tabun, kimi janakute yokatta",
+      "english": "Perhaps it's a good thing it wasn't you"
+    },
+    {
+      "sourceLine": 24,
+      "romaji": "Mou nakasareru koto mo nai shi",
+      "english": "I don't have to be made to cry anymore"
+    },
+    {
+      "sourceLine": 25,
+      "romaji": "\"Watashi bakari\" nante kotoba mo",
+      "english": "And words like \"it's always me\""
+    },
+    {
+      "sourceLine": 26,
+      "romaji": "nakunatta",
+      "english": "have disappeared"
+    },
+    {
+      "sourceLine": 27,
+      "romaji": "Anna ni kanashii wakare demo",
+      "english": "Even a breakup as sad as that"
+    },
+    {
+      "sourceLine": 28,
+      "romaji": "Jikan ga tateba wasureteku",
+      "english": "Is forgotten as time passes"
+    },
+    {
+      "sourceLine": 29,
+      "romaji": "Atarashii hito to narabu kimi wa",
+      "english": "You, standing beside someone new"
+    },
+    {
+      "sourceLine": 30,
+      "romaji": "Chanto umaku yarete iru no kana",
+      "english": "I wonder if you're doing alright"
+    },
+    {
+      "sourceLine": 31,
+      "romaji": "Mou kao mo mitakunai kara sa",
+      "english": "I don't even want to see your face anymore"
+    },
+    {
+      "sourceLine": 32,
+      "romaji": "Hen ni renraku shite konaide hoshii",
+      "english": "So I want you to stop contacting me out of the blue"
+    },
+    {
+      "sourceLine": 33,
+      "romaji": "Tsugou ga ii no wa kawattenain da ne",
+      "english": "You're still as self-serving as ever, aren't you?"
+    },
+    {
+      "sourceLine": 34,
+      "romaji": "Demo mushi dekizu ni mata sukoshi henji",
+      "english": "But unable to ignore you, I reply a little more"
+    },
+    {
+      "sourceLine": 35,
+      "romaji": "Koe mo kao mo bukiyou na toko mo",
+      "english": "Your voice, your face, and your clumsy side"
+    },
+    {
+      "sourceLine": 36,
+      "romaji": "Tabun ima mo kirai janai no",
+      "english": "Perhaps even now, I don't hate them"
+    },
+    {
+      "sourceLine": 37,
+      "romaji": "Dorai furawaa mitaku",
+      "english": "Like dried flowers"
+    },
+    {
+      "sourceLine": 38,
+      "romaji": "Jikan ga tateba kitto, kitto, kitto, kitto",
+      "english": "As time passes, surely, surely, surely, surely"
+    },
+    {
+      "sourceLine": 39,
+      "romaji": "Iroaseru oh-oh",
+      "english": "They will fade away oh-oh"
+    },
+    {
+      "sourceLine": 40,
+      "romaji": "Tsuki akari ni mamono ga yureru",
+      "english": "Monsters sway in the moonlight"
+    },
+    {
+      "sourceLine": 41,
+      "romaji": "Kitto watashi mo douka shiteru",
+      "english": "I'm sure something is wrong with me too"
+    },
+    {
+      "sourceLine": 42,
+      "romaji": "Kurayami ni shikisai ga ukabu",
+      "english": "Colors float in the darkness"
+    },
+    {
+      "sourceLine": 43,
+      "romaji": "Aka ki aiiro ga mune no oku",
+      "english": "Red, yellow, and indigo deep in my chest"
+    },
+    {
+      "sourceLine": 44,
+      "romaji": "Zutto anata no namae wo yobu",
+      "english": "I keep calling your name"
+    },
+    {
+      "sourceLine": 45,
+      "romaji": "Suki to iu kimochi",
+      "english": "The feeling of love"
+    },
+    {
+      "sourceLine": 46,
+      "romaji": "Mata kaoru oh",
+      "english": "Is fragrant once again oh"
+    },
+    {
+      "sourceLine": 47,
+      "romaji": "Koe mo kao mo bukiyou na toko mo",
+      "english": "Your voice, your face, and your clumsy side"
+    },
+    {
+      "sourceLine": 48,
+      "romaji": "Zenbu zenbu daikirai da yo",
+      "english": "I absolutely hate every single bit of it"
+    },
+    {
+      "sourceLine": 49,
+      "romaji": "Mada karenai hana wo",
+      "english": "A flower that hasn't withered yet"
+    },
+    {
+      "sourceLine": 50,
+      "romaji": "Kimi ni soete sa zutto, zutto, zutto, zutto",
+      "english": "I'll offer it to you and forever, forever, forever, forever"
+    },
+    {
+      "sourceLine": 51,
+      "romaji": "Kakaete yo ah-ah, ah-ah",
+      "english": "Please hold onto it ah-ah, ah-ah"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "schema": 1,
+  "artist": "Kazuyoshi Saito",
+  "track": "歩いて帰ろう - Aruite Kaero",
+  "lyrics": [
+    "走る街を見下ろして",
+    "のんびり雲が泳いでく",
+    "誰にも言えないことは",
+    "どうすりゃいいの?",
+    "おしえて",
+    "急ぐ人にあやつられ",
+    "右も左も同じ顔",
+    "寄り道なんかしてたら",
+    "置いてかれるよ",
+    "すぐに",
+    "",
+    "嘘でごまかして",
+    "過ごしてしまえば",
+    "たのみもしないのに",
+    "同じ様な朝が来る",
+    "",
+    "走る街を見下ろして",
+    "のんびり雲が泳いでく",
+    "だから歩いて帰ろう",
+    "今日は歩いて帰ろう",
+    "",
+    "嘘でごまかして",
+    "過ごしてしまえば",
+    "たのみもしないのに",
+    "同じ様な風が吹く",
+    "",
+    "急ぐ人にあやつられ",
+    "言いたい事は胸の中",
+    "寄り道なんかしてたら",
+    "置いてかれるよ",
+    "いつも",
+    "走る街を見下ろして",
+    "のんびり雲が泳いでく",
+    "僕は歩いて帰ろう",
+    "今日は歩いて帰ろう"
+  ],
+  "translations": [
+    {
+      "sourceLine": 1,
+      "romaji": "hashiru machi o mioroshite",
+      "english": "looking down at the rushing city"
+    },
+    {
+      "sourceLine": 2,
+      "romaji": "nonbiri kumo ga oyoideku",
+      "english": "clouds swim leisurely by"
+    },
+    {
+      "sourceLine": 3,
+      "romaji": "dare ni mo ienai koto wa",
+      "english": "the things I can't tell anyone"
+    },
+    {
+      "sourceLine": 4,
+      "romaji": "dousurya ii no?",
+      "english": "what should I do with them?"
+    },
+    {
+      "sourceLine": 5,
+      "romaji": "oshiete",
+      "english": "please tell me"
+    },
+    {
+      "sourceLine": 6,
+      "romaji": "isogu hito ni ayatsurare",
+      "english": "manipulated by people in a hurry"
+    },
+    {
+      "sourceLine": 7,
+      "romaji": "migi mo hidari mo onaji kao",
+      "english": "every face to the left and right is the same"
+    },
+    {
+      "sourceLine": 8,
+      "romaji": "yorimichi nanka shitetara",
+      "english": "if I take a detour"
+    },
+    {
+      "sourceLine": 9,
+      "romaji": "oitekareru yo",
+      "english": "I'll be left behind"
+    },
+    {
+      "sourceLine": 10,
+      "romaji": "sugu ni",
+      "english": "very soon"
+    },
+    {
+      "sourceLine": 12,
+      "romaji": "uso de gomakashite",
+      "english": "if I just gloss over it with lies"
+    },
+    {
+      "sourceLine": 13,
+      "romaji": "sugoshite shimaeba",
+      "english": "and let the time pass"
+    },
+    {
+      "sourceLine": 14,
+      "romaji": "tanomi mo shinai noni",
+      "english": "even though I never asked for it"
+    },
+    {
+      "sourceLine": 15,
+      "romaji": "onaji you na asa ga kuru",
+      "english": "the same kind of morning arrives"
+    },
+    {
+      "sourceLine": 17,
+      "romaji": "hashiru machi o mioroshite",
+      "english": "looking down at the rushing city"
+    },
+    {
+      "sourceLine": 18,
+      "romaji": "nonbiri kumo ga oyoideku",
+      "english": "clouds swim leisurely by"
+    },
+    {
+      "sourceLine": 19,
+      "romaji": "dakara aruite kaerou",
+      "english": "so let's walk home"
+    },
+    {
+      "sourceLine": 20,
+      "romaji": "kyou wa aruite kaerou",
+      "english": "let's walk home today"
+    },
+    {
+      "sourceLine": 22,
+      "romaji": "uso de gomakashite",
+      "english": "if I just gloss over it with lies"
+    },
+    {
+      "sourceLine": 23,
+      "romaji": "sugoshite shimaeba",
+      "english": "and let the time pass"
+    },
+    {
+      "sourceLine": 24,
+      "romaji": "tanomi mo shinai noni",
+      "english": "even though I never asked for it"
+    },
+    {
+      "sourceLine": 25,
+      "romaji": "onaji you na kaze ga fuku",
+      "english": "the same kind of wind blows"
+    },
+    {
+      "sourceLine": 27,
+      "romaji": "isogu hito ni ayatsurare",
+      "english": "manipulated by people in a hurry"
+    },
+    {
+      "sourceLine": 28,
+      "romaji": "iitai koto wa mune no naka",
+      "english": "the things I want to say stay in my heart"
+    },
+    {
+      "sourceLine": 29,
+      "romaji": "yorimichi nanka shitetara",
+      "english": "if I take a detour"
+    },
+    {
+      "sourceLine": 30,
+      "romaji": "oitekareru yo",
+      "english": "I'll be left behind"
+    },
+    {
+      "sourceLine": 31,
+      "romaji": "itsumo",
+      "english": "always"
+    },
+    {
+      "sourceLine": 32,
+      "romaji": "hashiru machi o mioroshite",
+      "english": "looking down at the rushing city"
+    },
+    {
+      "sourceLine": 33,
+      "romaji": "nonbiri kumo ga oyoideku",
+      "english": "clouds swim leisurely by"
+    },
+    {
+      "sourceLine": 34,
+      "romaji": "boku wa aruite kaerou",
+      "english": "I will walk home"
+    },
+    {
+      "sourceLine": 35,
+      "romaji": "kyou wa aruite kaerou",
+      "english": "I will walk home today"
+    }
+  ]
+}

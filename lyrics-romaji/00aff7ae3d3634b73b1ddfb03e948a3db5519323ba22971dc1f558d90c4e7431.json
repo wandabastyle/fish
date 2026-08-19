@@ -1,0 +1,182 @@
+{
+  "schema": 1,
+  "artist": "Masato Shimon",
+  "track": "Oyoge! Taiyaki Kun",
+  "lyrics": [
+    "まいにち まいにち ぼくらはてっぱんの",
+    "うえで やかれて いやになっちゃうよ",
+    "あるあさ ぼくは みせのおじさんと",
+    "けんかして うみに にげこんだのさ",
+    "",
+    "はじめて およいだ うみのそこ",
+    "とっても きもちが いいもんだ",
+    "おなかの あんこが おもいけど",
+    "うみは ひろいぜ こころがはずむ",
+    "ももいろ サンゴが てをふって",
+    "ぼくの およぎを ながめていたよ",
+    "",
+    "まいにち まいにち たのしいことばかり",
+    "なんぱせんが ぼくのすみかさ",
+    "ときどき サメに いじめられるけど",
+    "そんなときゃ そうさ にげるのさ",
+    "",
+    "いちにち およげば はらぺこさ",
+    "めだまも くるくる まわっちゃう",
+    "たまには エビでも くわなけりゃ",
+    "しおみず ばかりじゃ ふやけてしまう",
+    "いわばの かげから くいつけば",
+    "それは ちいさな つりばりだった",
+    "",
+    "どんなに どんなに もがいても",
+    "ハリが のどから とれないよ",
+    "はまべで みしらぬ おじさんが",
+    "ぼくを つりあげ びっくりしてた",
+    "",
+    "やっぱり ぼくは たいやきさ",
+    "すこし こげある たいやきさ",
+    "おじさん つばを のみこんで",
+    "ぼくを うまそうに たべたのさ"
+  ],
+  "translations": [
+    {
+      "sourceLine": 1,
+      "romaji": "mainichi mainichi bokura wa teppan no",
+      "english": "day after day, we are on the griddle"
+    },
+    {
+      "sourceLine": 2,
+      "romaji": "ue de yakarete iya ni nacchau yo",
+      "english": "getting grilled until we've had enough"
+    },
+    {
+      "sourceLine": 3,
+      "romaji": "aru asa boku wa mise no ojisan to",
+      "english": "one morning, I had a fight with the shopkeeper"
+    },
+    {
+      "sourceLine": 4,
+      "romaji": "kenka shite umi ni nigekonda no sa",
+      "english": "and escaped into the sea"
+    },
+    {
+      "sourceLine": 6,
+      "romaji": "hajimete oyoida umi no soko",
+      "english": "swimming for the first time on the ocean floor"
+    },
+    {
+      "sourceLine": 7,
+      "romaji": "tottemo kimochi ga ii mon da",
+      "english": "it feels absolutely wonderful"
+    },
+    {
+      "sourceLine": 8,
+      "romaji": "onaka no anko ga omoi kedo",
+      "english": "though the red bean paste in my belly is heavy"
+    },
+    {
+      "sourceLine": 9,
+      "romaji": "umi wa hiroi ze kokoro ga hazumu",
+      "english": "the sea is vast, and my heart leaps"
+    },
+    {
+      "sourceLine": 10,
+      "romaji": "momoiro sango ga te o futte",
+      "english": "pink corals waved their hands"
+    },
+    {
+      "sourceLine": 11,
+      "romaji": "boku no oyogi o nagamete ita yo",
+      "english": "watching the way I swam"
+    },
+    {
+      "sourceLine": 13,
+      "romaji": "mainichi mainichi tanoshii koto bakari",
+      "english": "day after day, it's nothing but fun"
+    },
+    {
+      "sourceLine": 14,
+      "romaji": "nanpasen ga boku no sumika sa",
+      "english": "a fishing boat is my home"
+    },
+    {
+      "sourceLine": 15,
+      "romaji": "tokidoki same ni ijimerareru kedo",
+      "english": "sometimes I get bullied by sharks"
+    },
+    {
+      "sourceLine": 16,
+      "romaji": "sonna tokya sousa nigeru no sa",
+      "english": "but in times like those, that's right, I just run away"
+    },
+    {
+      "sourceLine": 18,
+      "romaji": "ichinichi oyogeba harapeko sa",
+      "english": "after swimming all day, I'm starving"
+    },
+    {
+      "sourceLine": 19,
+      "romaji": "medama mo kurukuru mawacchau",
+      "english": "even my eyes start spinning around"
+    },
+    {
+      "sourceLine": 20,
+      "romaji": "tama ni wa ebi demo kuwanakerya",
+      "english": "if I don't eat a shrimp every now and then"
+    },
+    {
+      "sourceLine": 21,
+      "romaji": "shiomizu bakari ja fuyakete shimau",
+      "english": "I'll just get soggy from all the saltwater"
+    },
+    {
+      "sourceLine": 22,
+      "romaji": "iwaba no kage kara kuitsukeba",
+      "english": "when I snapped at something from the shadow of a reef"
+    },
+    {
+      "sourceLine": 23,
+      "romaji": "sore wa chiisana tsuribari datta",
+      "english": "it turned out to be a tiny fishhook"
+    },
+    {
+      "sourceLine": 25,
+      "romaji": "donna ni donna ni mogaitemo",
+      "english": "no matter how and how much I struggled"
+    },
+    {
+      "sourceLine": 26,
+      "romaji": "hari ga nodo kara torenai yo",
+      "english": "the hook wouldn't come out of my throat"
+    },
+    {
+      "sourceLine": 27,
+      "romaji": "hamabe de mishiranu ojisan ga",
+      "english": "on the beach, a strange man"
+    },
+    {
+      "sourceLine": 28,
+      "romaji": "boku o tsuriage bikkuri shiteta",
+      "english": "pulled me up and looked surprised"
+    },
+    {
+      "sourceLine": 30,
+      "romaji": "yappari boku wa taiyaki sa",
+      "english": "after all, I am a taiyaki"
+    },
+    {
+      "sourceLine": 31,
+      "romaji": "sukoshi koge aru taiyaki sa",
+      "english": "a taiyaki with a few burnt spots"
+    },
+    {
+      "sourceLine": 32,
+      "romaji": "ojisan tsuba o nomikonde",
+      "english": "the man swallowed hard"
+    },
+    {
+      "sourceLine": 33,
+      "romaji": "boku o umasou ni tabeta no sa",
+      "english": "and ate me up with gusto"
+    }
+  ]
+}

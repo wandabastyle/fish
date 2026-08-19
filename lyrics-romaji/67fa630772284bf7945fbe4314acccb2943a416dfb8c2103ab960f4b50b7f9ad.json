@@ -1,0 +1,243 @@
+{
+  "schema": 1,
+  "artist": "Denki Groove",
+  "track": "Shangri-La",
+  "lyrics": [
+    "シャングリラ 彼女の唱った ユートピア 眩しい",
+    "シャングリラ 彼女は語った 趣は良し",
+    "シャングリラ 彼女にすれば どうにでもなるし",
+    "シャングリラの中に消えた 思い出は無視",
+    "夢で KISS KISS KISS KISS KISS KISS",
+    "何処へも何処までも",
+    "つながる様な 色めく世界 麗しの時よ",
+    "夢で KISS KISS KISS KISS KISS KISS",
+    "いつでもいつまでも",
+    "キラめく様な甘い思いに",
+    "胸ときめいていた あの頃の様に",
+    "シャングリラ 彼女の綴った ユートピア 探し",
+    "シャングリラ 彼女は笑った 軋轢は無し",
+    "シャングリラ 彼女が居れば どうにでもなるし",
+    "シャングリラの中埋もれた 思い出話",
+    "夢で KISS KISS KISS KISS KISS KISS",
+    "何処へも何処までも",
+    "漂う様な さざめきの中 穏やかな日々よ",
+    "夢で KISS KISS KISS KISS KISS KISS",
+    "いつでもいつまでも",
+    "キラめきながら 降りそそぐ雨",
+    "春潤していた あの頃の様に",
+    "(シャングリラ シャングリラ...)",
+    "(シャングリラ シャングリラ...)",
+    "(シャングリラ シャングリラ...)",
+    "(シャングリラ シャングリラ...)",
+    "(シャングリラ シャングリラ...)",
+    "(シャングリラ シャングリラ...)",
+    "夢で KISS KISS KISS KISS KISS KISS",
+    "何処へも何処までも",
+    "つながる様な 色めく世界 麗しの時よ",
+    "夢で KISS KISS KISS KISS KISS KISS",
+    "いつでもいつまでも",
+    "キラめく様な甘い思いに",
+    "胸ときめいていた あの頃の様に",
+    "夢で KISS KISS KISS KISS KISS KISS",
+    "夢で KISS KISS KISS KISS KISS KISS",
+    "夢で KISS KISS KISS KISS KISS KISS",
+    "夢で KISS KISS KISS KISS KISS KISS"
+  ],
+  "translations": [
+    {
+      "sourceLine": 1,
+      "romaji": "Shangrila kanojo no tondatta yūtopia mabushii",
+      "english": "Shangri-La, the utopia she sang of, is dazzling"
+    },
+    {
+      "sourceLine": 2,
+      "romaji": "Shangrila kanojo wa katatta omomuki wa yoshi",
+      "english": "Shangri-La, she spoke of it, and the atmosphere was fine"
+    },
+    {
+      "sourceLine": 3,
+      "romaji": "Shangrila kanojo ni sureba dō ni demo narushi",
+      "english": "Shangri-La, for her, anything is possible"
+    },
+    {
+      "sourceLine": 4,
+      "romaji": "Shangrila no naka ni kieta omoide wa mushi",
+      "english": "Vanished into Shangri-La, ignoring the memories"
+    },
+    {
+      "sourceLine": 5,
+      "romaji": "Yume de KISS KISS KISS KISS KISS KISS",
+      "english": "In a dream, KISS KISS KISS KISS KISS KISS"
+    },
+    {
+      "sourceLine": 6,
+      "romaji": "Doko e mo doko made mo",
+      "english": "Everywhere, no matter how far"
+    },
+    {
+      "sourceLine": 7,
+      "romaji": "Tsunagaru yō na iromeku sekai uruwashi no toki yo",
+      "english": "A colorful world that seems connected, oh beautiful time"
+    },
+    {
+      "sourceLine": 8,
+      "romaji": "Yume de KISS KISS KISS KISS KISS KISS",
+      "english": "In a dream, KISS KISS KISS KISS KISS KISS"
+    },
+    {
+      "sourceLine": 9,
+      "romaji": "Itsumo itsumademo",
+      "english": "Always, forever"
+    },
+    {
+      "sourceLine": 10,
+      "romaji": "Kirameku yō na amai omoi ni",
+      "english": "In sweet thoughts that seem to sparkle"
+    },
+    {
+      "sourceLine": 11,
+      "romaji": "Mune tokimeite ita ano koro no yō ni",
+      "english": "My heart was throbbing, just like back then"
+    },
+    {
+      "sourceLine": 12,
+      "romaji": "Shangrila kanojo no tsuzutta yūtopia sagashi",
+      "english": "Shangri-La, searching for the utopia she wrote of"
+    },
+    {
+      "sourceLine": 13,
+      "romaji": "Shangrila kanojo wa waratta atsureki wa nashi",
+      "english": "Shangri-La, she laughed, there was no discord"
+    },
+    {
+      "sourceLine": 14,
+      "romaji": "Shangrila kanojo ga ireba dō ni demo narushi",
+      "english": "Shangri-La, as long as she is there, anything is possible"
+    },
+    {
+      "sourceLine": 15,
+      "romaji": "Shangrila no naka umoreta omoidebanashi",
+      "english": "Stories of memories buried within Shangri-La"
+    },
+    {
+      "sourceLine": 16,
+      "romaji": "Yume de KISS KISS KISS KISS KISS KISS",
+      "english": "In a dream, KISS KISS KISS KISS KISS KISS"
+    },
+    {
+      "sourceLine": 17,
+      "romaji": "Doko e mo doko made mo",
+      "english": "Everywhere, no matter how far"
+    },
+    {
+      "sourceLine": 18,
+      "romaji": "Tadayou yō na sazameki no naka odayaka na hibi yo",
+      "english": "Amidst a drifting murmur, oh peaceful days"
+    },
+    {
+      "sourceLine": 19,
+      "romaji": "Yume de KISS KISS KISS KISS KISS KISS",
+      "english": "In a dream, KISS KISS KISS KISS KISS KISS"
+    },
+    {
+      "sourceLine": 20,
+      "romaji": "Itsumo itsumademo",
+      "english": "Always, forever"
+    },
+    {
+      "sourceLine": 21,
+      "romaji": "Kirameki nagara furisosogu ame",
+      "english": "The rain pouring down while sparkling"
+    },
+    {
+      "sourceLine": 22,
+      "romaji": "Haru uruoshite ita ano koro no yō ni",
+      "english": "Moistening the spring, just like back then"
+    },
+    {
+      "sourceLine": 23,
+      "romaji": "(Shangrila Shangrila...)",
+      "english": "(Shangri-La, Shangri-La...)"
+    },
+    {
+      "sourceLine": 24,
+      "romaji": "(Shangrila Shangrila...)",
+      "english": "(Shangri-La, Shangri-La...)"
+    },
+    {
+      "sourceLine": 25,
+      "romaji": "(Shangrila Shangrila...)",
+      "english": "(Shangri-La, Shangri-La...)"
+    },
+    {
+      "sourceLine": 26,
+      "romaji": "(Shangrila Shangrila...)",
+      "english": "(Shangri-La, Shangri-La...)"
+    },
+    {
+      "sourceLine": 27,
+      "romaji": "(Shangrila Shangrila...)",
+      "english": "(Shangri-La, Shangri-La...)"
+    },
+    {
+      "sourceLine": 28,
+      "romaji": "(Shangrila Shangrila...)",
+      "english": "(Shangri-La, Shangri-La...)"
+    },
+    {
+      "sourceLine": 29,
+      "romaji": "Yume de KISS KISS KISS KISS KISS KISS",
+      "english": "In a dream, KISS KISS KISS KISS KISS KISS"
+    },
+    {
+      "sourceLine": 30,
+      "romaji": "Doko e mo doko made mo",
+      "english": "Everywhere, no matter how far"
+    },
+    {
+      "sourceLine": 31,
+      "romaji": "Tsunagaru yō na iromeku sekai uruwashi no toki yo",
+      "english": "A colorful world that seems connected, oh beautiful time"
+    },
+    {
+      "sourceLine": 32,
+      "romaji": "Yume de KISS KISS KISS KISS KISS KISS",
+      "english": "In a dream, KISS KISS KISS KISS KISS KISS"
+    },
+    {
+      "sourceLine": 33,
+      "romaji": "Itsumo itsumademo",
+      "english": "Always, forever"
+    },
+    {
+      "sourceLine": 34,
+      "romaji": "Kirameku yō na amai omoi ni",
+      "english": "In sweet thoughts that seem to sparkle"
+    },
+    {
+      "sourceLine": 35,
+      "romaji": "Mune tokimeite ita ano koro no yō ni",
+      "english": "My heart was throbbing, just like back then"
+    },
+    {
+      "sourceLine": 36,
+      "romaji": "Yume de KISS KISS KISS KISS KISS KISS",
+      "english": "In a dream, KISS KISS KISS KISS KISS KISS"
+    },
+    {
+      "sourceLine": 37,
+      "romaji": "Yume de KISS KISS KISS KISS KISS KISS",
+      "english": "In a dream, KISS KISS KISS KISS KISS KISS"
+    },
+    {
+      "sourceLine": 38,
+      "romaji": "Yume de KISS KISS KISS KISS KISS KISS",
+      "english": "In a dream, KISS KISS KISS KISS KISS KISS"
+    },
+    {
+      "sourceLine": 39,
+      "romaji": "Yume de KISS KISS KISS KISS KISS KISS",
+      "english": "In a dream, KISS KISS KISS KISS KISS KISS"
+    }
+  ]
+}

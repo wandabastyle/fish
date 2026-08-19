@@ -1,0 +1,174 @@
+{
+  "schema": 1,
+  "artist": "SOUTHERN ALL STARS",
+  "track": "Nijiiro THE NIGHT CLUB",
+  "lyrics": [
+    "踊り明かそう 酒を食らおう 今宵Summer Time",
+    "薄手のブラが裸の中身も透す",
+    "お前を賞める似合いの言葉無いから",
+    "身体ごとナメるようにせまりくる",
+    "背中に熱い熱い口づけのランデブー",
+    "時折 Just Anouther Man",
+    "君を振り向いてる",
+    "Night Clubで男も濡れる",
+    "波をまくらに漂うほどに",
+    "匂う女の舞う トルバドール",
+    "",
+    "虹色のホールでギラギラの秘め事",
+    "下心で胸がはりさけそうなMonday",
+    "Stop the Music 彼女が昔を憂うナンバー",
+    "やるせない踊れない 口説けない",
+    "涙がひとつふたつホホをつたうモナムール",
+    "二人で Dance the night away",
+    "お前だけが愛しい",
+    "Nihgt Clubで男も濡れる",
+    "病める月日も忘れがちだよ",
+    "やけに男も舞うトルバトール",
+    "Night Clubは女も立たす",
+    "チーク・ダンスで素敵な恋を",
+    "",
+    "Night Clubで男も濡れる",
+    "波をまくらに漂うほどに",
+    "匂う女の舞う トルバドール",
+    "",
+    "俺のKissはきっと痛いよ!!",
+    "I love you babe..."
+  ],
+  "translations": [
+    {
+      "sourceLine": 1,
+      "romaji": "odoriakasou sake o kuraou koyoi Summer Time",
+      "english": "Let's dance the night away, drink up, tonight is Summer Time"
+    },
+    {
+      "sourceLine": 2,
+      "romaji": "usude no bura ga hadaka no nakami mo sukasu",
+      "english": "A thin bra reveals the naked body beneath"
+    },
+    {
+      "sourceLine": 3,
+      "romaji": "omae o aromeru niai no kotoba nai kara",
+      "english": "Because there are no words fitting enough to praise you"
+    },
+    {
+      "sourceLine": 4,
+      "romaji": "karada goto nameru you ni semari kuru",
+      "english": "Closing in as if to lick your entire body"
+    },
+    {
+      "sourceLine": 5,
+      "romaji": "senaka ni atsui atsui kuchizuke no randebū",
+      "english": "A rendezvous of hot, hot kisses on your back"
+    },
+    {
+      "sourceLine": 6,
+      "romaji": "Tokiori Just Anouther Man",
+      "english": "Occasionally Just Another Man"
+    },
+    {
+      "sourceLine": 7,
+      "romaji": "kimi o furimuite iru",
+      "english": "I am looking back at you"
+    },
+    {
+      "sourceLine": 8,
+      "romaji": "Night Club de otoko mo nureru",
+      "english": "In the night club, even the men get wet"
+    },
+    {
+      "sourceLine": 9,
+      "romaji": "nami o makura ni tadayou hodo ni",
+      "english": "To the point of drifting with the waves as a pillow"
+    },
+    {
+      "sourceLine": 10,
+      "romaji": "niou onna no mau torubadōru",
+      "english": "A troubadour where fragrant women dance"
+    },
+    {
+      "sourceLine": 12,
+      "romaji": "nijiiro no hōru de giragira no himegoto",
+      "english": "Glittering secrets in a rainbow-colored hall"
+    },
+    {
+      "sourceLine": 13,
+      "romaji": "shitagokoro de mune ga harisakesou na Monday",
+      "english": "A Monday where my chest feels like it'll burst with ulterior motives"
+    },
+    {
+      "sourceLine": 14,
+      "romaji": "Stop the Music kanojo ga mukashi o ureu nanbā",
+      "english": "Stop the Music, a number that makes her lament the past"
+    },
+    {
+      "sourceLine": 15,
+      "romaji": "yarusenai odorenai kutsukenai",
+      "english": "Helpless, unable to dance, unable to seduce"
+    },
+    {
+      "sourceLine": 16,
+      "romaji": "namida ga hitotsu futatsu hoho o tsutau monamūru",
+      "english": "One or two tears trickle down the cheek, mon amour"
+    },
+    {
+      "sourceLine": 17,
+      "romaji": "futari de Dance the night away",
+      "english": "The two of us Dance the night away"
+    },
+    {
+      "sourceLine": 18,
+      "romaji": "omae dake ga itoshii",
+      "english": "Only you are beloved"
+    },
+    {
+      "sourceLine": 19,
+      "romaji": "Nihgt Club de otoko mo nureru",
+      "english": "In the night club, even the men get wet"
+    },
+    {
+      "sourceLine": 20,
+      "romaji": "yameru tsukihi mo wasuregachi da yo",
+      "english": "I tend to forget the days of sickness"
+    },
+    {
+      "sourceLine": 21,
+      "romaji": "yake ni otoko mo mau torubatōru",
+      "english": "A troubadour where men also dance wildly"
+    },
+    {
+      "sourceLine": 22,
+      "romaji": "Night Club wa onna mo tatasu",
+      "english": "The night club satisfies the women too"
+    },
+    {
+      "sourceLine": 23,
+      "romaji": "chīku dansu de suteki na koi o",
+      "english": "A wonderful love through a cheek dance"
+    },
+    {
+      "sourceLine": 25,
+      "romaji": "Night Club de otoko mo nureru",
+      "english": "In the night club, even the men get wet"
+    },
+    {
+      "sourceLine": 26,
+      "romaji": "nami o makura ni tadayou hodo ni",
+      "english": "To the point of drifting with the waves as a pillow"
+    },
+    {
+      "sourceLine": 27,
+      "romaji": "niou onna no mau torubadōru",
+      "english": "A troubadour where fragrant women dance"
+    },
+    {
+      "sourceLine": 29,
+      "romaji": "ore no Kiss wa kitto itai yo!!",
+      "english": "My kiss will surely be painful!!"
+    },
+    {
+      "sourceLine": 30,
+      "romaji": "I love you babe...",
+      "english": "I love you babe..."
+    }
+  ]
+}

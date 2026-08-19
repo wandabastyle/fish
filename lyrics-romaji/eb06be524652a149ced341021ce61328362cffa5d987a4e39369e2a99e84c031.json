@@ -1,0 +1,358 @@
+{
+  "schema": 1,
+  "artist": "Gemitaiz, Neffa, & Ele A",
+  "track": "Dancing With The Devil Pt.2",
+  "lyrics": [
+    "Ah, ah, senti",
+    "",
+    "\"Davide, come sta?\" me lo hai mai chiesto? (Ehi)",
+    "Chiama un'ambulanza, baby, fai presto (ah)",
+    "Che per restare vero, non lo sai il prezzo (no)",
+    "Lancio ancora il cuore là in mezzo, yeah",
+    "Le quattro di notte, una cartina piena",
+    "La luna ride come una iena, vedo una sirena",
+    "L'accendo lo stesso, stendo sulla schiena",
+    "Faccio cruise crociera, dalla radio partono i Pantera (oh, oh)",
+    "",
+    "Sì, mi sento libero, abbasso il finestrino e guardo questo mondo misero",
+    "La città si sbriciola nei fari coi palazzi spenti",
+    "Vedo in bianco e nero comе un film dei anni '20 (what?)",
+    "Il mio amico ride dopo quattro whisky (ahahah)",
+    "Prеndo questo e quello, dice: \"Cazzo mischi\" (yeah)",
+    "Domani ti scordi pure che ci siamo visti (ah)",
+    "Ognuno ha il suo antidoto, sì, contro i giorni tristi (già)",
+    "",
+    "Sì, sono alterato (uh), poi mando un messaggio a lei",
+    "Dico che la amo (sì), che mi manca il fiato (sì)",
+    "Sopra la corsia della nostalgia, sì, scivola come sul prato (uh)",
+    "Sono questo, ormai l'ho accettato, yeah",
+    "Parcheggia qua che continuiamo a piedi",
+    "Andiamo a riempire questi bicchieri (shh)",
+    "Cinque minuti e siamo ready (ready)",
+    "E si va, dancing with the devil, baby (yeah)",
+    "",
+    "Forse non lo senti e c'è",
+    "Sta ballando intorno a te",
+    "Le candele e un passo di danza",
+    "Un pentacolo in una stanza",
+    "Chiamalo per nome se",
+    "Vuoi firmare un modo c'è",
+    "Quando la minaccia diventa",
+    "La tua vanità che ti tenta (ah)",
+    "",
+    "Cerco parole di conforto",
+    "La droga non fa bene, ma uccide di più il confronto",
+    "Ballo con i dubbi, mi confondo",
+    "Mi perdo in una folla di persone che non sono (uoh)",
+    "Ci stiamo schiantando, all'impatto ci penso dopo (ci penso dopo)",
+    "E non pensare troppo, non ci penso proprio",
+    "Nonna sorride, dice: \"Sappi che hai un dono\" (yeah)",
+    "E io ci penso sempre quando il palco lo divoro (yeah, yeah, yeah)",
+    "",
+    "Ma il resto non conta niente (no)",
+    "Ripenso ancora a Mac Miller (yeah), a 'ste parole come dirle (ah)",
+    "La mia amica ride dopo sei tequila",
+    "Dice: \"Il diavolo veste Prada\", ma ha una corona di spine (yeah, yeah, yeah)",
+    "Ye, non ci penso, e non so cosa cerco",
+    "Ma la vita, come Fibra, l'ho riempita con te al centro",
+    "Ho solo questo nella testa",
+    "Da quando a dodici anni avevo i super in cartella",
+    "E una frase di Gem sulla maglietta, ye",
+    "",
+    "Forse non lo senti e c'è",
+    "Sta ballando intorno a te",
+    "Le candele e un passo di danza",
+    "Un pentacolo in una stanza",
+    "Chiamalo per nome se",
+    "Vuoi firmare un modo c'è",
+    "Quando la minaccia diventa",
+    "La tua vanità che ti tenta"
+  ],
+  "translations": [
+    {
+      "sourceLine": 1,
+      "romaji": "Ah, ah, senti",
+      "english": "Ah, ah, listen"
+    },
+    {
+      "sourceLine": 3,
+      "romaji": "\"Davide, come sta?\" me lo hai mai chiesto? (Ehi)",
+      "english": "\"Davide, how is he?\" have you ever asked me? (Hey)"
+    },
+    {
+      "sourceLine": 4,
+      "romaji": "Chiama un'ambulanza, baby, fai presto (ah)",
+      "english": "Call an ambulance, baby, hurry up (ah)"
+    },
+    {
+      "sourceLine": 5,
+      "romaji": "Che per restare vero, non lo sai il prezzo (no)",
+      "english": "Because to stay true, you don't know the price (no)"
+    },
+    {
+      "sourceLine": 6,
+      "romaji": "Lancio ancora il cuore là in mezzo, yeah",
+      "english": "I throw my heart in the middle again, yeah"
+    },
+    {
+      "sourceLine": 7,
+      "romaji": "Le quattro di notte, una cartina piena",
+      "english": "Four in the morning, a full rolling paper"
+    },
+    {
+      "sourceLine": 8,
+      "romaji": "La luna ride come una iena, vedo una sirena",
+      "english": "The moon laughs like a hyena, I see a siren"
+    },
+    {
+      "sourceLine": 9,
+      "romaji": "L'accendo lo stesso, stendo sulla schiena",
+      "english": "I light it anyway, stretching out on my back"
+    },
+    {
+      "sourceLine": 10,
+      "romaji": "Faccio cruise crociera, dalla radio partono i Pantera (oh, oh)",
+      "english": "I'm cruising, Pantera starts playing on the radio (oh, oh)"
+    },
+    {
+      "sourceLine": 12,
+      "romaji": "Sì, mi sento libero, abbasso il finestrino e guardo questo mondo misero",
+      "english": "Yes, I feel free, I roll down the window and look at this miserable world"
+    },
+    {
+      "sourceLine": 13,
+      "romaji": "La città si sbriciola nei fari coi palazzi spenti",
+      "english": "The city crumbles in the headlights with the buildings dark"
+    },
+    {
+      "sourceLine": 14,
+      "romaji": "Vedo in bianco e nero comе un film dei anni '20 (what?)",
+      "english": "I see in black and white like a movie from the '20s (what?)"
+    },
+    {
+      "sourceLine": 15,
+      "romaji": "Il mio amico ride dopo quattro whisky (ahahah)",
+      "english": "My friend laughs after four whiskies (ahahah)"
+    },
+    {
+      "sourceLine": 16,
+      "romaji": "Prеndo questo e quello, dice: \"Cazzo mischi\" (yeah)",
+      "english": "I take this and that, he says: \"Damn, you're mixing\" (yeah)"
+    },
+    {
+      "sourceLine": 17,
+      "romaji": "Domani ti scordi pure che ci siamo visti (ah)",
+      "english": "Tomorrow you'll even forget that we saw each other (ah)"
+    },
+    {
+      "sourceLine": 18,
+      "romaji": "Ognuno ha il suo antidoto, sì, contro i giorni tristi (già)",
+      "english": "Everyone has their own antidote, yes, against the sad days (already)"
+    },
+    {
+      "sourceLine": 20,
+      "romaji": "Sì, sono alterato (uh), poi mando un messaggio a lei",
+      "english": "Yes, I'm altered (uh), then I send a message to her"
+    },
+    {
+      "sourceLine": 21,
+      "romaji": "Dico che la amo (sì), che mi manca il fiato (sì)",
+      "english": "I say that I love her (yes), that I'm out of breath (yes)"
+    },
+    {
+      "sourceLine": 22,
+      "romaji": "Sopra la corsia della nostalgia, sì, scivola come sul prato (uh)",
+      "english": "On the lane of nostalgia, yes, it slides like on the grass (uh)"
+    },
+    {
+      "sourceLine": 23,
+      "romaji": "Sono questo, ormai l'ho accettato, yeah",
+      "english": "This is who I am, I've accepted it by now, yeah"
+    },
+    {
+      "sourceLine": 24,
+      "romaji": "Parcheggia qua che continuiamo a piedi",
+      "english": "Park here and we'll continue on foot"
+    },
+    {
+      "sourceLine": 25,
+      "romaji": "Andiamo a riempire questi bicchieri (shh)",
+      "english": "Let's go fill these glasses (shh)"
+    },
+    {
+      "sourceLine": 26,
+      "romaji": "Cinque minuti e siamo ready (ready)",
+      "english": "Five minutes and we're ready (ready)"
+    },
+    {
+      "sourceLine": 27,
+      "romaji": "E si va, dancing with the devil, baby (yeah)",
+      "english": "And off we go, dancing with the devil, baby (yeah)"
+    },
+    {
+      "sourceLine": 29,
+      "romaji": "Forse non lo senti e c'è",
+      "english": "Maybe you don't feel it and it's there"
+    },
+    {
+      "sourceLine": 30,
+      "romaji": "Sta ballando intorno a te",
+      "english": "It's dancing around you"
+    },
+    {
+      "sourceLine": 31,
+      "romaji": "Le candele e un passo di danza",
+      "english": "The candles and a dance step"
+    },
+    {
+      "sourceLine": 32,
+      "romaji": "Un pentacolo in una stanza",
+      "english": "A pentacle in a room"
+    },
+    {
+      "sourceLine": 33,
+      "romaji": "Chiamalo per nome se",
+      "english": "Call it by name if"
+    },
+    {
+      "sourceLine": 34,
+      "romaji": "Vuoi firmare un modo c'è",
+      "english": "You want to sign, there is a way"
+    },
+    {
+      "sourceLine": 35,
+      "romaji": "Quando la minaccia diventa",
+      "english": "When the threat becomes"
+    },
+    {
+      "sourceLine": 36,
+      "romaji": "La tua vanità che ti tenta (ah)",
+      "english": "Your vanity that tempts you (ah)"
+    },
+    {
+      "sourceLine": 38,
+      "romaji": "Cerco parole di conforto",
+      "english": "I look for words of comfort"
+    },
+    {
+      "sourceLine": 39,
+      "romaji": "La droga non fa bene, ma uccide di più il confronto",
+      "english": "Drugs aren't good, but comparison kills more"
+    },
+    {
+      "sourceLine": 40,
+      "romaji": "Ballo con i dubbi, mi confondo",
+      "english": "I dance with doubts, I get confused"
+    },
+    {
+      "sourceLine": 41,
+      "romaji": "Mi perdo in una folla di persone che non sono (uoh)",
+      "english": "I lose myself in a crowd of people I am not (uoh)"
+    },
+    {
+      "sourceLine": 42,
+      "romaji": "Ci stiamo schiantando, all'impatto ci penso dopo (ci penso dopo)",
+      "english": "We're crashing, I'll think about the impact later (I'll think about it later)"
+    },
+    {
+      "sourceLine": 43,
+      "romaji": "E non pensare troppo, non ci penso proprio",
+      "english": "And don't think too much, I don't think about it at all"
+    },
+    {
+      "sourceLine": 44,
+      "romaji": "Nonna sorride, dice: \"Sappi che hai un dono\" (yeah)",
+      "english": "Grandma smiles, says: \"Know that you have a gift\" (yeah)"
+    },
+    {
+      "sourceLine": 45,
+      "romaji": "E io ci penso sempre quando il palco lo divoro (yeah, yeah, yeah)",
+      "english": "And I always think about it when I devour the stage (yeah, yeah, yeah)"
+    },
+    {
+      "sourceLine": 47,
+      "romaji": "Ma il resto non conta niente (no)",
+      "english": "But the rest doesn't matter at all (no)"
+    },
+    {
+      "sourceLine": 48,
+      "romaji": "Ripenso ancora a Mac Miller (yeah), a 'ste parole come dirle (ah)",
+      "english": "I still think of Mac Miller (yeah), of these words and how to say them (ah)"
+    },
+    {
+      "sourceLine": 49,
+      "romaji": "La mia amica ride dopo sei tequila",
+      "english": "My friend laughs after six tequilas"
+    },
+    {
+      "sourceLine": 50,
+      "romaji": "Dice: \"Il diavolo veste Prada\", ma ha una corona di spine (yeah, yeah, yeah)",
+      "english": "She says: \"The devil wears Prada\", but he has a crown of thorns (yeah, yeah, yeah)"
+    },
+    {
+      "sourceLine": 51,
+      "romaji": "Ye, non ci penso, e non so cosa cerco",
+      "english": "Ye, I don't think about it, and I don't know what I'm looking for"
+    },
+    {
+      "sourceLine": 52,
+      "romaji": "Ma la vita, come Fibra, l'ho riempita con te al centro",
+      "english": "But life, like Fibra, I filled it with you at the center"
+    },
+    {
+      "sourceLine": 53,
+      "romaji": "Ho solo questo nella testa",
+      "english": "I only have this in my head"
+    },
+    {
+      "sourceLine": 54,
+      "romaji": "Da quando a dodici anni avevo i super in cartella",
+      "english": "Since I was twelve and had the supers in my folder"
+    },
+    {
+      "sourceLine": 55,
+      "romaji": "E una frase di Gem sulla maglietta, ye",
+      "english": "And a phrase by Gem on my t-shirt, ye"
+    },
+    {
+      "sourceLine": 57,
+      "romaji": "Forse non lo senti e c'è",
+      "english": "Maybe you don't feel it and it's there"
+    },
+    {
+      "sourceLine": 58,
+      "romaji": "Sta ballando intorno a te",
+      "english": "It's dancing around you"
+    },
+    {
+      "sourceLine": 59,
+      "romaji": "Le candele e un passo di danza",
+      "english": "The candles and a dance step"
+    },
+    {
+      "sourceLine": 60,
+      "romaji": "Un pentacolo in una stanza",
+      "english": "A pentacle in a room"
+    },
+    {
+      "sourceLine": 61,
+      "romaji": "Chiamalo per nome se",
+      "english": "Call it by name if"
+    },
+    {
+      "sourceLine": 62,
+      "romaji": "Vuoi firmare un modo c'è",
+      "english": "You want to sign, there is a way"
+    },
+    {
+      "sourceLine": 63,
+      "romaji": "Quando la minaccia diventa",
+      "english": "When the threat becomes"
+    },
+    {
+      "sourceLine": 64,
+      "romaji": "La tua vanità che ti tenta",
+      "english": "Your vanity that tempts you"
+    }
+  ]
+}

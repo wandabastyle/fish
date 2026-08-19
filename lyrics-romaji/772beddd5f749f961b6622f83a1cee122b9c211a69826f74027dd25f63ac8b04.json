@@ -1,0 +1,170 @@
+{
+  "schema": 1,
+  "artist": "Mariya Takeuchi",
+  "track": "Plastic Love",
+  "lyrics": [
+    "突然のキスや 熱いまなざしで",
+    "恋のプログラムを 狂わせないでね",
+    "出逢いと別れ 上手に打ち込んで",
+    "時間がくれば終わる don't hurry",
+    "",
+    "愛に傷ついた あの日からずっと",
+    "昼と夜が逆の 暮らしを続けて",
+    "はやりの disco で 踊り明かすうちに",
+    "おぼえた魔術なのよ I'm sorry",
+    "",
+    "わたしのことを決して 本気で愛さないで",
+    "恋なんてただのゲーム 楽しめばそれでいいの",
+    "閉ざした心を飾る 派手なドレスも靴も",
+    "孤独な友達",
+    "",
+    "わたしを誘う人は 皮肉なものね いつも",
+    "彼に似てるわなぜか 思い出と重なり合う",
+    "グラスを落として急に 涙ぐんでもわけは",
+    "尋ねないでね",
+    "",
+    "夜更けの高速で 眠りにつくころ",
+    "ハロゲンライトだけ 妖しく輝く",
+    "氷のように冷たい女だと",
+    "ささやく声がしても don't worry",
+    "",
+    "I'm just playing games, I know that's plastic love",
+    "Dance to the plastic beat, another morning comes",
+    "I'm just playing games, I know that's plastic love",
+    "Dance to the plastic beat, another morning comes",
+    "I'm just playing games, I know that's plastic love",
+    "Dance to the plastic beat, another morning comes"
+  ],
+  "translations": [
+    {
+      "sourceLine": 1,
+      "romaji": "totsuzen no kisu ya atsui manazashi de",
+      "english": "with sudden kisses and passionate glances"
+    },
+    {
+      "sourceLine": 2,
+      "romaji": "koi no puroguramu o kuruwasenaide ne",
+      "english": "please don't mess up my program of love"
+    },
+    {
+      "sourceLine": 3,
+      "romaji": "deai to wakare jouzu ni uchikonde",
+      "english": "skillfully inputting encounters and partings"
+    },
+    {
+      "sourceLine": 4,
+      "romaji": "jikan ga kureba owaru don't hurry",
+      "english": "it will end when the time comes, don't hurry"
+    },
+    {
+      "sourceLine": 6,
+      "romaji": "ai ni kizutsuita ano hi kara zutto",
+      "english": "ever since that day I was hurt by love"
+    },
+    {
+      "sourceLine": 7,
+      "romaji": "hiru to yoru ga gyaku no kurashi o tsuzukete",
+      "english": "continuing a life where day and night are reversed"
+    },
+    {
+      "sourceLine": 8,
+      "romaji": "hayari no disco de odoriakasu uchi ni",
+      "english": "while dancing the night away at a trendy disco"
+    },
+    {
+      "sourceLine": 9,
+      "romaji": "oboeta majutsu na no yo I'm sorry",
+      "english": "it's a magic I've learned, I'm sorry"
+    },
+    {
+      "sourceLine": 11,
+      "romaji": "watashi no koto o kesshite honki de aisanaide",
+      "english": "please never love me seriously"
+    },
+    {
+      "sourceLine": 12,
+      "romaji": "koi nante tada no geemu tanoshimeba sore de ii no",
+      "english": "love is just a game; as long as I enjoy it, that's enough"
+    },
+    {
+      "sourceLine": 13,
+      "romaji": "tozashita kokoro o kazaru hade na doresu mo kutsu mo",
+      "english": "the flashy dresses and shoes that decorate my closed heart"
+    },
+    {
+      "sourceLine": 14,
+      "romaji": "kodoku na tomodachi",
+      "english": "are my lonely friends"
+    },
+    {
+      "sourceLine": 16,
+      "romaji": "watashi o sasou hito wa hiniku na mono ne itsumo",
+      "english": "the people who invite me are ironic, always"
+    },
+    {
+      "sourceLine": 17,
+      "romaji": "kare ni niteru wa naze ka omoide to kasanariau",
+      "english": "somehow resembling him, overlapping with my memories"
+    },
+    {
+      "sourceLine": 18,
+      "romaji": "gurasu o otoshite kyuu ni namidagundemo wake wa",
+      "english": "even if I suddenly drop my glass and tear up, the reason"
+    },
+    {
+      "sourceLine": 19,
+      "romaji": "tazunenaide ne",
+      "english": "please don't ask"
+    },
+    {
+      "sourceLine": 21,
+      "romaji": "yofuke no kousoku de nemuri ni tsuku koro",
+      "english": "around the time I fall asleep on the highway late at night"
+    },
+    {
+      "sourceLine": 22,
+      "romaji": "harogen raito dake ayashiku kagayaku",
+      "english": "only the halogen lights shine mysteriously"
+    },
+    {
+      "sourceLine": 23,
+      "romaji": "koori no you ni tsumetai onna da to",
+      "english": "even if voices whisper"
+    },
+    {
+      "sourceLine": 24,
+      "romaji": "sasayaku koe ga shitemo don't worry",
+      "english": "that I'm a woman cold as ice, don't worry"
+    },
+    {
+      "sourceLine": 26,
+      "romaji": "I'm just playing games, I know that's plastic love",
+      "english": "I'm just playing games, I know that's plastic love"
+    },
+    {
+      "sourceLine": 27,
+      "romaji": "Dance to the plastic beat, another morning comes",
+      "english": "Dance to the plastic beat, another morning comes"
+    },
+    {
+      "sourceLine": 28,
+      "romaji": "I'm just playing games, I know that's plastic love",
+      "english": "I'm just playing games, I know that's plastic love"
+    },
+    {
+      "sourceLine": 29,
+      "romaji": "Dance to the plastic beat, another morning comes",
+      "english": "Dance to the plastic beat, another morning comes"
+    },
+    {
+      "sourceLine": 30,
+      "romaji": "I'm just playing games, I know that's plastic love",
+      "english": "I'm just playing games, I know that's plastic love"
+    },
+    {
+      "sourceLine": 31,
+      "romaji": "Dance to the plastic beat, another morning comes",
+      "english": "Dance to the plastic beat, another morning comes"
+    }
+  ]
+}

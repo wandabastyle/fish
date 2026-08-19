@@ -1,0 +1,392 @@
+{
+  "schema": 1,
+  "artist": "Hikaru Utada",
+  "track": "Simple And Clean",
+  "lyrics": [
+    "When you walk away",
+    "You don't hear me say",
+    "Please, oh baby, don't go",
+    "Simple and clean is the way that you're making me feel tonight",
+    "It's hard to let it go",
+    "",
+    "You're giving me",
+    "Too many things",
+    "Lately",
+    "You're all I need, oh",
+    "You smiled at me",
+    "And said",
+    "",
+    "Don't get me wrong, I love you",
+    "But does that mean I have to meet your father?",
+    "When we are older you'll understand",
+    "What I meant when I said no",
+    "I don't think life is quite that simple",
+    "",
+    "When you walk away",
+    "You don't hear me say",
+    "Please, oh baby, don't go",
+    "Simple and clean is the way that you're making me feel tonight",
+    "It's hard to let it go",
+    "",
+    "So simple and clean",
+    "",
+    "The daily things",
+    "Like this and that and what is what",
+    "That keep us all busy",
+    "Are confusing me",
+    "That's when you came to me",
+    "And said",
+    "",
+    "Wish I could prove I love you",
+    "But does that mean I have to walk on water?",
+    "When we are older you'll understand",
+    "It's enough when I say so",
+    "And maybe",
+    "Some things are that simple",
+    "",
+    "When you walk away",
+    "You don't hear me say",
+    "Please, oh baby, don't go",
+    "Simple and clean is the way that you're making me feel tonight",
+    "It's hard to let it go",
+    "",
+    "Hold me",
+    "Whatever lies beyond this morning",
+    "Is a little later on",
+    "Regardless of warnings",
+    "The future doesn't scare me at all",
+    "Nothing's like before",
+    "",
+    "When you walk away",
+    "You don't hear me say",
+    "Please, oh baby, don't go",
+    "Simple and clean is the way that you're making me feel tonight",
+    "It's hard to let it go",
+    "",
+    "Hold me",
+    "Whatever lies beyond this morning",
+    "Is a little later on",
+    "Regardless of warnings",
+    "The future doesn't scare me at all",
+    "Nothing's like before",
+    "",
+    "Hold me",
+    "Whatever lies beyond this morning",
+    "Is a little later on",
+    "Regardless of warnings",
+    "The future doesn't scare me at all",
+    "Nothing's like before"
+  ],
+  "translations": [
+    {
+      "sourceLine": 1,
+      "romaji": "When you walk away",
+      "english": "When you walk away"
+    },
+    {
+      "sourceLine": 2,
+      "romaji": "You don't hear me say",
+      "english": "You don't hear me say"
+    },
+    {
+      "sourceLine": 3,
+      "romaji": "Please, oh baby, don't go",
+      "english": "Please, oh baby, don't go"
+    },
+    {
+      "sourceLine": 4,
+      "romaji": "Simple and clean is the way that you're making me feel tonight",
+      "english": "Simple and clean is the way that you're making me feel tonight"
+    },
+    {
+      "sourceLine": 5,
+      "romaji": "It's hard to let it go",
+      "english": "It's hard to let it go"
+    },
+    {
+      "sourceLine": 7,
+      "romaji": "You're giving me",
+      "english": "You're giving me"
+    },
+    {
+      "sourceLine": 8,
+      "romaji": "Too many things",
+      "english": "Too many things"
+    },
+    {
+      "sourceLine": 9,
+      "romaji": "Lately",
+      "english": "Lately"
+    },
+    {
+      "sourceLine": 10,
+      "romaji": "You're all I need, oh",
+      "english": "You're all I need, oh"
+    },
+    {
+      "sourceLine": 11,
+      "romaji": "You smiled at me",
+      "english": "You smiled at me"
+    },
+    {
+      "sourceLine": 12,
+      "romaji": "And said",
+      "english": "And said"
+    },
+    {
+      "sourceLine": 14,
+      "romaji": "Don't get me wrong, I love you",
+      "english": "Don't get me wrong, I love you"
+    },
+    {
+      "sourceLine": 15,
+      "romaji": "But does that mean I have to meet your father?",
+      "english": "But does that mean I have to meet your father?"
+    },
+    {
+      "sourceLine": 16,
+      "romaji": "When we are older you'll understand",
+      "english": "When we are older you'll understand"
+    },
+    {
+      "sourceLine": 17,
+      "romaji": "What I meant when I said no",
+      "english": "What I meant when I said no"
+    },
+    {
+      "sourceLine": 18,
+      "romaji": "I don't think life is quite that simple",
+      "english": "I don't think life is quite that simple"
+    },
+    {
+      "sourceLine": 20,
+      "romaji": "When you walk away",
+      "english": "When you walk away"
+    },
+    {
+      "sourceLine": 21,
+      "romaji": "You don't hear me say",
+      "english": "You don't hear me say"
+    },
+    {
+      "sourceLine": 22,
+      "romaji": "Please, oh baby, don't go",
+      "english": "Please, oh baby, don't go"
+    },
+    {
+      "sourceLine": 23,
+      "romaji": "Simple and clean is the way that you're making me feel tonight",
+      "english": "Simple and clean is the way that you're making me feel tonight"
+    },
+    {
+      "sourceLine": 24,
+      "romaji": "It's hard to let it go",
+      "english": "It's hard to let it go"
+    },
+    {
+      "sourceLine": 26,
+      "romaji": "So simple and clean",
+      "english": "So simple and clean"
+    },
+    {
+      "sourceLine": 28,
+      "romaji": "The daily things",
+      "english": "The daily things"
+    },
+    {
+      "sourceLine": 29,
+      "romaji": "Like this and that and what is what",
+      "english": "Like this and that and what is what"
+    },
+    {
+      "sourceLine": 30,
+      "romaji": "That keep us all busy",
+      "english": "That keep us all busy"
+    },
+    {
+      "sourceLine": 31,
+      "romaji": "Are confusing me",
+      "english": "Are confusing me"
+    },
+    {
+      "sourceLine": 32,
+      "romaji": "That's when you came to me",
+      "english": "That's when you came to me"
+    },
+    {
+      "sourceLine": 33,
+      "romaji": "And said",
+      "english": "And said"
+    },
+    {
+      "sourceLine": 35,
+      "romaji": "Wish I could prove I love you",
+      "english": "Wish I could prove I love you"
+    },
+    {
+      "sourceLine": 36,
+      "romaji": "But does that mean I have to walk on water?",
+      "english": "But does that mean I have to walk on water?"
+    },
+    {
+      "sourceLine": 37,
+      "romaji": "When we are older you'll understand",
+      "english": "When we are older you'll understand"
+    },
+    {
+      "sourceLine": 38,
+      "romaji": "It's enough when I say so",
+      "english": "It's enough when I say so"
+    },
+    {
+      "sourceLine": 39,
+      "romaji": "And maybe",
+      "english": "And maybe"
+    },
+    {
+      "sourceLine": 40,
+      "romaji": "Some things are that simple",
+      "english": "Some things are that simple"
+    },
+    {
+      "sourceLine": 42,
+      "romaji": "When you walk away",
+      "english": "When you walk away"
+    },
+    {
+      "sourceLine": 43,
+      "romaji": "You don't hear me say",
+      "english": "You don't hear me say"
+    },
+    {
+      "sourceLine": 44,
+      "romaji": "Please, oh baby, don't go",
+      "english": "Please, oh baby, don't go"
+    },
+    {
+      "sourceLine": 45,
+      "romaji": "Simple and clean is the way that you're making me feel tonight",
+      "english": "Simple and clean is the way that you're making me feel tonight"
+    },
+    {
+      "sourceLine": 46,
+      "romaji": "It's hard to let it go",
+      "english": "It's hard to let it go"
+    },
+    {
+      "sourceLine": 48,
+      "romaji": "Hold me",
+      "english": "Hold me"
+    },
+    {
+      "sourceLine": 49,
+      "romaji": "Whatever lies beyond this morning",
+      "english": "Whatever lies beyond this morning"
+    },
+    {
+      "sourceLine": 50,
+      "romaji": "Is a little later on",
+      "english": "Is a little later on"
+    },
+    {
+      "sourceLine": 51,
+      "romaji": "Regardless of warnings",
+      "english": "Regardless of warnings"
+    },
+    {
+      "sourceLine": 52,
+      "romaji": "The future doesn't scare me at all",
+      "english": "The future doesn't scare me at all"
+    },
+    {
+      "sourceLine": 53,
+      "romaji": "Nothing's like before",
+      "english": "Nothing's like before"
+    },
+    {
+      "sourceLine": 55,
+      "romaji": "When you walk away",
+      "english": "When you walk away"
+    },
+    {
+      "sourceLine": 56,
+      "romaji": "You don't hear me say",
+      "english": "You don't hear me say"
+    },
+    {
+      "sourceLine": 57,
+      "romaji": "Please, oh baby, don't go",
+      "english": "Please, oh baby, don't go"
+    },
+    {
+      "sourceLine": 58,
+      "romaji": "Simple and clean is the way that you're making me feel tonight",
+      "english": "Simple and clean is the way that you're making me feel tonight"
+    },
+    {
+      "sourceLine": 59,
+      "romaji": "It's hard to let it go",
+      "english": "It's hard to let it go"
+    },
+    {
+      "sourceLine": 61,
+      "romaji": "Hold me",
+      "english": "Hold me"
+    },
+    {
+      "sourceLine": 62,
+      "romaji": "Whatever lies beyond this morning",
+      "english": "Whatever lies beyond this morning"
+    },
+    {
+      "sourceLine": 63,
+      "romaji": "Is a little later on",
+      "english": "Is a little later on"
+    },
+    {
+      "sourceLine": 64,
+      "romaji": "Regardless of warnings",
+      "english": "Regardless of warnings"
+    },
+    {
+      "sourceLine": 65,
+      "romaji": "The future doesn't scare me at all",
+      "english": "The future doesn't scare me at all"
+    },
+    {
+      "sourceLine": 66,
+      "romaji": "Nothing's like before",
+      "english": "Nothing's like before"
+    },
+    {
+      "sourceLine": 68,
+      "romaji": "Hold me",
+      "english": "Hold me"
+    },
+    {
+      "sourceLine": 69,
+      "romaji": "Whatever lies beyond this morning",
+      "english": "Whatever lies beyond this morning"
+    },
+    {
+      "sourceLine": 70,
+      "romaji": "Is a little later on",
+      "english": "Is a little later on"
+    },
+    {
+      "sourceLine": 71,
+      "romaji": "Regardless of warnings",
+      "english": "Regardless of warnings"
+    },
+    {
+      "sourceLine": 72,
+      "romaji": "The future doesn't scare me at all",
+      "english": "The future doesn't scare me at all"
+    },
+    {
+      "sourceLine": 73,
+      "romaji": "Nothing's like before",
+      "english": "Nothing's like before"
+    }
+  ]
+}

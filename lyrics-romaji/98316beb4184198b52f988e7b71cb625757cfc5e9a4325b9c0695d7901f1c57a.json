@@ -1,0 +1,205 @@
+{
+  "schema": 1,
+  "artist": "SOUTHERN ALL STARS",
+  "track": "ミス・ブランニュー・デイ（MISS BRAND-NEW DAY）",
+  "lyrics": [
+    "夢に見る姿の良さと 美形のBlue Jean",
+    "身体と欲で エリ好みのラプソディー",
+    "Oh, Oh, Miss Brand-New Day",
+    "みな同じそぶり",
+    "Oh, Miss Brand-New Way",
+    "誰かと似た身なり",
+    "",
+    "意味のないはやりの言葉と 見栄のIllusion",
+    "教えられたままの しぐさに酔ってる",
+    "Oh, Oh, Miss Brand-New Day",
+    "月並みを愛し",
+    "Oh, Miss Brand-New Way",
+    "お出かけの前に",
+    "",
+    "終らない彼と寝てるNight Time",
+    "ぬれたムードを 買い占めている",
+    "Oh, Yes, I know she's right on time",
+    "今宵 With you",
+    "Oh, You should know she's breaking up my heart",
+    "わりとよくあるタイプの君よ",
+    "",
+    "Oh ありのまま着ままの君で 心はRainbow",
+    "人目をはばかるにゃ 美しすぎる",
+    "Oh, Oh, Miss Brand-New Day",
+    "みな同じそぶり",
+    "Oh, Miss Brand-New Way",
+    "誰かと似た身なり",
+    "誰のため本当の君を 捨てるのCrazy",
+    "しなやかと軽さを はきちがえてる",
+    "",
+    "慣れない場所で 背のびAll Night",
+    "粋な努力をただで売る",
+    "Oh, Yes I know she's right on time",
+    "今宵 with you",
+    "Oh, You should know she's breaking up my heart",
+    "街でよく見るタイプの君よ"
+  ],
+  "translations": [
+    {
+      "sourceLine": 1,
+      "romaji": "yume ni miru sugata no yosato bikei no Blue Jean",
+      "english": "The beauty of the figure in my dreams and the handsome Blue Jean"
+    },
+    {
+      "sourceLine": 2,
+      "romaji": "karada to yoku de eri konomi no rapusodii",
+      "english": "A rhapsody of selective tastes, driven by body and desire"
+    },
+    {
+      "sourceLine": 3,
+      "romaji": "Oh, Oh, Miss Brand-New Day",
+      "english": "Oh, Oh, Miss Brand-New Day"
+    },
+    {
+      "sourceLine": 4,
+      "romaji": "mina onaji soburi",
+      "english": "Everyone puts on the same act"
+    },
+    {
+      "sourceLine": 5,
+      "romaji": "Oh, Miss Brand-New Way",
+      "english": "Oh, Miss Brand-New Way"
+    },
+    {
+      "sourceLine": 6,
+      "romaji": "dareka to nita minari",
+      "english": "Dressed just like someone else"
+    },
+    {
+      "sourceLine": 8,
+      "romaji": "imi no nai hayari no kotoba to mie no Illusion",
+      "english": "Meaningless trendy words and an illusion of vanity"
+    },
+    {
+      "sourceLine": 9,
+      "romaji": "oshierareta mama no shigusa ni yotteru",
+      "english": "Intoxicated by gestures exactly as they were taught"
+    },
+    {
+      "sourceLine": 10,
+      "romaji": "Oh, Oh, Miss Brand-New Day",
+      "english": "Oh, Oh, Miss Brand-New Day"
+    },
+    {
+      "sourceLine": 11,
+      "romaji": "naminami o aishi",
+      "english": "Loving the commonplace"
+    },
+    {
+      "sourceLine": 12,
+      "romaji": "Oh, Miss Brand-New Way",
+      "english": "Oh, Miss Brand-New Way"
+    },
+    {
+      "sourceLine": 13,
+      "romaji": "odekake no mae ni",
+      "english": "Before heading out"
+    },
+    {
+      "sourceLine": 15,
+      "romaji": "owaranai kare to neteru Night Time",
+      "english": "An endless Night Time sleeping with him"
+    },
+    {
+      "sourceLine": 16,
+      "romaji": "nureta muudo o kaishimete iru",
+      "english": "Buying up all the steamy mood"
+    },
+    {
+      "sourceLine": 17,
+      "romaji": "Oh, Yes, I know she's right on time",
+      "english": "Oh, Yes, I know she's right on time"
+    },
+    {
+      "sourceLine": 18,
+      "romaji": "koyoi With you",
+      "english": "Tonight With you"
+    },
+    {
+      "sourceLine": 19,
+      "romaji": "Oh, You should know she's breaking up my heart",
+      "english": "Oh, You should know she's breaking up my heart"
+    },
+    {
+      "sourceLine": 20,
+      "romaji": "wari to yoku aru taipu no kimi yo",
+      "english": "You're a relatively common type"
+    },
+    {
+      "sourceLine": 22,
+      "romaji": "Oh ari no mama kimama no kimi de kokoro wa Rainbow",
+      "english": "Oh, just as you are, just as you're dressed, my heart is a Rainbow"
+    },
+    {
+      "sourceLine": 23,
+      "romaji": "hitome o habakaru nya utsukushisugiru",
+      "english": "You're far too beautiful to be shy of others' eyes"
+    },
+    {
+      "sourceLine": 24,
+      "romaji": "Oh, Oh, Miss Brand-New Day",
+      "english": "Oh, Oh, Miss Brand-New Day"
+    },
+    {
+      "sourceLine": 25,
+      "romaji": "mina onaji soburi",
+      "english": "Everyone puts on the same act"
+    },
+    {
+      "sourceLine": 26,
+      "romaji": "Oh, Miss Brand-New Way",
+      "english": "Oh, Miss Brand-New Way"
+    },
+    {
+      "sourceLine": 27,
+      "romaji": "dareka to nita minari",
+      "english": "Dressed just like someone else"
+    },
+    {
+      "sourceLine": 28,
+      "romaji": "dare no tame hontou no kimi o suteru no Crazy",
+      "english": "For whose sake are you throwing away the real you? Crazy"
+    },
+    {
+      "sourceLine": 29,
+      "romaji": "shinayaka to karusa o hakichigaeteru",
+      "english": "You've mistaken suppleness for lightness"
+    },
+    {
+      "sourceLine": 31,
+      "romaji": "narenai basho de senobi All Night",
+      "english": "Stretching yourself in an unfamiliar place All Night"
+    },
+    {
+      "sourceLine": 32,
+      "romaji": "iki na doryoku o tada de uru",
+      "english": "Selling your chic efforts for nothing"
+    },
+    {
+      "sourceLine": 33,
+      "romaji": "Oh, Yes I know she's right on time",
+      "english": "Oh, Yes I know she's right on time"
+    },
+    {
+      "sourceLine": 34,
+      "romaji": "koyoi with you",
+      "english": "Tonight with you"
+    },
+    {
+      "sourceLine": 35,
+      "romaji": "Oh, You should know she's breaking up my heart",
+      "english": "Oh, You should know she's breaking up my heart"
+    },
+    {
+      "sourceLine": 36,
+      "romaji": "machi de yoku miru taipu no kimi yo",
+      "english": "You're the type I often see in town"
+    }
+  ]
+}

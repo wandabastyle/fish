@@ -1,4 +1,24 @@
 function lyrics-romaji
+    function __lyrics_romaji_wrap_cell
+        set -l value $argv[1]
+        set -l max_width $argv[2]
+        set -l line
+
+        for character in (string split '' -- "$value")
+            set -l candidate "$line$character"
+            if test -n "$line"; and test (string length --visible -- "$candidate") -gt $max_width
+                printf '%s\n' "$line"
+                set line $character
+            else
+                set line $candidate
+            end
+        end
+
+        if test -n "$line"
+            printf '%s\n' "$line"
+        end
+    end
+
     set -l query
     set -l refresh false
 
@@ -209,6 +229,7 @@ function lyrics-romaji
         end
     end
 
+    set -l max_column_width 50
     set -l original_width (string length --visible 'Original')
     set -l romaji_width (string length --visible 'Romaji')
     set -l row_index 1
@@ -224,11 +245,17 @@ function lyrics-romaji
 
         set -l columns (string split -m1 '|' -- "$row")
         set -l width (string length --visible (string trim -- "$columns[1]"))
+        if test $width -gt $max_column_width
+            set width $max_column_width
+        end
         if test $width -gt $romaji_width
             set romaji_width $width
         end
 
         set width (string length --visible (string trim -- "$original_line"))
+        if test $width -gt $max_column_width
+            set width $max_column_width
+        end
         if test $width -gt $original_width
             set original_width $width
         end
@@ -252,10 +279,39 @@ function lyrics-romaji
             set -l row $rows[$row_index]
             set row_index (math $row_index + 1)
             set -l columns (string split -m1 '|' -- "$row")
-            printf '%s │ %s │ %s\n' \
-                (string pad -w $original_width --right (string trim -- "$original_line")) \
-                (string pad -w $romaji_width --right (string trim -- "$columns[1]")) \
-                (string trim -- "$columns[2]")
+            set -l original_wrapped (__lyrics_romaji_wrap_cell (string trim -- "$original_line") $original_width)
+            set -l romaji_wrapped (__lyrics_romaji_wrap_cell (string trim -- "$columns[1]") $romaji_width)
+            set -l english_wrapped (__lyrics_romaji_wrap_cell (string trim -- "$columns[2]") $max_column_width)
+
+            if test (count $original_wrapped) -eq 0
+                set original_wrapped ''
+            end
+            if test (count $romaji_wrapped) -eq 0
+                set romaji_wrapped ''
+            end
+            if test (count $english_wrapped) -eq 0
+                set english_wrapped ''
+            end
+
+            set -l wrapped_line_count (count $original_wrapped)
+            if test (count $romaji_wrapped) -gt $wrapped_line_count
+                set wrapped_line_count (count $romaji_wrapped)
+            end
+            if test (count $english_wrapped) -gt $wrapped_line_count
+                set wrapped_line_count (count $english_wrapped)
+            end
+
+            for wrapped_index in (seq $wrapped_line_count)
+                set -l original_segment $original_wrapped[$wrapped_index]
+                set -l romaji_segment $romaji_wrapped[$wrapped_index]
+                set -l english_segment $english_wrapped[$wrapped_index]
+                printf '%s │ %s │ %s\n' \
+                    (string pad -w $original_width --right "$original_segment") \
+                    (string pad -w $romaji_width --right "$romaji_segment") \
+                    "$english_segment"
+            end
         end
     end | gum pager
+
+    functions -e __lyrics_romaji_wrap_cell
 end

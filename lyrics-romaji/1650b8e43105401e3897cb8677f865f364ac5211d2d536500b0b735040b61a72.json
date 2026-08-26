@@ -1,0 +1,203 @@
+{
+  "schema": 1,
+  "artist": "Kazuma Kiryu",
+  "track": "Baka Mitai",
+  "lyrics": [
+    "Bakamitai kodomona no ne",
+    "Yume o otte kizutsuite",
+    "Uso ga hetana kuse ni",
+    "Waraenai egao miseta",
+    "I love you mo rokuni iwanai",
+    "Kuchibeta de honma ni bukiyō",
+    "Nanoni nanoni dōshite",
+    "Sayonara wa ieta no",
+    "Dameda ne dame yo damena no yo",
+    "Anta ga sukide suki sugite",
+    "Dore dake tsuyoi o sake demo",
+    "Yugamanai omoide ga bakamitai",
+    "",
+    "Bakamitai hontō bakane",
+    "Anta shinjiru bakaride",
+    "Tsuyoi on'na no furi",
+    "Setsuna-sa no yokaze abiru",
+    "Hitori ni natte 3-nen ga sugi",
+    "Machinami sae mo kawarimashita",
+    "Nanoni nanoni dōshite",
+    "Miren dake okizari",
+    "Honma ni rokuna otoko ya nai",
+    "Soroi no yubiwa hazushimasu",
+    "Zamāmiro seisei suru wa",
+    "Īkagen mattete mo bakamitai",
+    "",
+    "Dameda ne dame yo damena no yo",
+    "Anta ga sukide suki sugite",
+    "Dore dake tsuyoi o sake demo",
+    "Yugamanai omoide ga bakamitai",
+    "Honma ni rokuna otoko ya nai",
+    "Soroi no yubiwa hazushimasu",
+    "Zamāmiro seisei suru wa",
+    "Na n'na no yo kono namida bakamitai"
+  ],
+  "translations": [
+    {
+      "sourceLine": 1,
+      "romaji": "Bakamitai kodomona no ne",
+      "english": "It's foolish, so childish"
+    },
+    {
+      "sourceLine": 2,
+      "romaji": "Yume o otte kizutsuite",
+      "english": "Chasing dreams and getting hurt"
+    },
+    {
+      "sourceLine": 3,
+      "romaji": "Uso ga hetana kuse ni",
+      "english": "Despite being so bad at lying"
+    },
+    {
+      "sourceLine": 4,
+      "romaji": "Waraenai egao miseta",
+      "english": "You showed me a smile that wasn't a smile"
+    },
+    {
+      "sourceLine": 5,
+      "romaji": "I love you mo rokuni iwanai",
+      "english": "You couldn't even say \"I love you\" properly"
+    },
+    {
+      "sourceLine": 6,
+      "romaji": "Kuchibeta de honma ni bukiyō",
+      "english": "You were truly clumsy with your words"
+    },
+    {
+      "sourceLine": 7,
+      "romaji": "Nanoni nanoni dōshite",
+      "english": "And yet, and yet, why"
+    },
+    {
+      "sourceLine": 8,
+      "romaji": "Sayonara wa ieta no",
+      "english": "Were you able to say goodbye?"
+    },
+    {
+      "sourceLine": 9,
+      "romaji": "Dameda ne dame yo damena no yo",
+      "english": "It's no good, it's no good, it's just no good"
+    },
+    {
+      "sourceLine": 10,
+      "romaji": "Anta ga sukide suki sugite",
+      "english": "I love you, I love you too much"
+    },
+    {
+      "sourceLine": 11,
+      "romaji": "Dore dake tsuyoi o sake demo",
+      "english": "No matter how strong the liquor is"
+    },
+    {
+      "sourceLine": 12,
+      "romaji": "Yugamanai omoide ga bakamitai",
+      "english": "These undistorted memories are foolish"
+    },
+    {
+      "sourceLine": 14,
+      "romaji": "Bakamitai hontō bakane",
+      "english": "It's foolish, truly foolish"
+    },
+    {
+      "sourceLine": 15,
+      "romaji": "Anta shinjiru bakaride",
+      "english": "I did nothing but believe in you"
+    },
+    {
+      "sourceLine": 16,
+      "romaji": "Tsuyoi on'na no furi",
+      "english": "Pretending to be a strong woman"
+    },
+    {
+      "sourceLine": 17,
+      "romaji": "Setsuna-sa no yokaze abiru",
+      "english": "Basking in the evening breeze of sadness"
+    },
+    {
+      "sourceLine": 18,
+      "romaji": "Hitori ni natte 3-nen ga sugi",
+      "english": "Three years have passed since I became alone"
+    },
+    {
+      "sourceLine": 19,
+      "romaji": "Machinami sae mo kawarimashita",
+      "english": "Even the townscape has changed"
+    },
+    {
+      "sourceLine": 20,
+      "romaji": "Nanoni nanoni dōshite",
+      "english": "And yet, and yet, why"
+    },
+    {
+      "sourceLine": 21,
+      "romaji": "Miren dake okizari",
+      "english": "Only these lingering attachments are left behind"
+    },
+    {
+      "sourceLine": 22,
+      "romaji": "Honma ni rokuna otoko ya nai",
+      "english": "You really aren't any good as a man"
+    },
+    {
+      "sourceLine": 23,
+      "romaji": "Soroi no yubiwa hazushimasu",
+      "english": "I'll take off our matching rings"
+    },
+    {
+      "sourceLine": 24,
+      "romaji": "Zamāmiro seisei suru wa",
+      "english": "Serves you right, it's a relief"
+    },
+    {
+      "sourceLine": 25,
+      "romaji": "Īkagen mattete mo bakamitai",
+      "english": "It's foolish to keep waiting forever"
+    },
+    {
+      "sourceLine": 27,
+      "romaji": "Dameda ne dame yo damena no yo",
+      "english": "It's no good, it's no good, it's just no good"
+    },
+    {
+      "sourceLine": 28,
+      "romaji": "Anta ga sukide suki sugite",
+      "english": "I love you, I love you too much"
+    },
+    {
+      "sourceLine": 29,
+      "romaji": "Dore dake tsuyoi o sake demo",
+      "english": "No matter how strong the liquor is"
+    },
+    {
+      "sourceLine": 30,
+      "romaji": "Yugamanai omoide ga bakamitai",
+      "english": "These undistorted memories are foolish"
+    },
+    {
+      "sourceLine": 31,
+      "romaji": "Honma ni rokuna otoko ya nai",
+      "english": "You really aren't any good as a man"
+    },
+    {
+      "sourceLine": 32,
+      "romaji": "Soroi no yubiwa hazushimasu",
+      "english": "I'll take off our matching rings"
+    },
+    {
+      "sourceLine": 33,
+      "romaji": "Zamāmiro seisei suru wa",
+      "english": "Serves you right, it's a relief"
+    },
+    {
+      "sourceLine": 34,
+      "romaji": "Na n'na no yo kono namida bakamitai",
+      "english": "What is this? These tears are foolish"
+    }
+  ]
+}

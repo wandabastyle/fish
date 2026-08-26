@@ -1,0 +1,276 @@
+{
+  "schema": 1,
+  "artist": "Miki Matsubara",
+  "track": "Mayonaka no Door / Stay With Me",
+  "lyrics": [
+    "To you... yes, my love to you",
+    "Yes my love to you you, to you",
+    "",
+    "私は私 貴方は貴方と",
+    "昨夜言ってた そんな気もするわ",
+    "",
+    "グレイのジャケットに",
+    "見覚えがある コーヒーのしみ",
+    "相変らずなのね",
+    "ショーウィンドウに 二人映れば",
+    "",
+    "Stay with me...",
+    "真夜中のドアをたたき",
+    "帰らないでと泣いた",
+    "あの季節が 今 目の前",
+    "Stay with me...",
+    "口ぐせを言いながら",
+    "二人の瞬間を抱いて",
+    "まだ忘れず 大事にしていた",
+    "",
+    "恋と愛とは 違うものだよと",
+    "昨夜言われた そんな気もするわ",
+    "",
+    "二度目の冬が来て",
+    "離れていった貴方の心",
+    "ふり返ればいつも",
+    "そこに 貴方を感じていたの",
+    "",
+    "Stay with me...",
+    "真夜中のドアをたたき",
+    "心に穴があいた",
+    "あの季節が 今 目の前",
+    "Stay with me...",
+    "淋しさまぎらわして",
+    "置いたレコードの針",
+    "同じメロディ 繰り返していた...",
+    "",
+    "Stay with me...",
+    "真夜中のドアをたたき",
+    "帰らないでと泣いた",
+    "あの季節が 今 目の前",
+    "Stay with me...",
+    "口ぐせを言いながら",
+    "二人の瞬間を抱いて",
+    "まだ忘れず 暖めてた",
+    "",
+    "Stay with me...",
+    "真夜中のドアをたたき",
+    "帰らないでと泣いた",
+    "あの季節が 今 目の前",
+    "",
+    "Stay with me..."
+  ],
+  "translations": [
+    {
+      "sourceLine": 1,
+      "romaji": "To you... yes, my love to you",
+      "english": "To you... yes, my love to you"
+    },
+    {
+      "sourceLine": 2,
+      "romaji": "Yes my love to you you, to you",
+      "english": "Yes my love to you you, to you"
+    },
+    {
+      "sourceLine": 4,
+      "romaji": "Watashi wa watashi anata wa anata to",
+      "english": "I am me, and you are you"
+    },
+    {
+      "sourceLine": 5,
+      "romaji": "Sakuya itteta sonna ki mo suru wa",
+      "english": "I feel like you said that last night"
+    },
+    {
+      "sourceLine": 7,
+      "romaji": "Gurei no jaketto ni",
+      "english": "On your gray jacket"
+    },
+    {
+      "sourceLine": 8,
+      "romaji": "Mioboe ga aru kōhī no shimi",
+      "english": "I recognize that coffee stain"
+    },
+    {
+      "sourceLine": 9,
+      "romaji": "Aikawarazu nano ne",
+      "english": "You haven't changed at all, have you"
+    },
+    {
+      "sourceLine": 10,
+      "romaji": "Shōwindō ni futari utsureba",
+      "english": "When the two of us are reflected in the shop window"
+    },
+    {
+      "sourceLine": 12,
+      "romaji": "Stay with me...",
+      "english": "Stay with me..."
+    },
+    {
+      "sourceLine": 13,
+      "romaji": "Mayonaka no doa o tataki",
+      "english": "Knocking on the door at midnight"
+    },
+    {
+      "sourceLine": 14,
+      "romaji": "Kaeranaide to naita",
+      "english": "I cried and begged you not to go home"
+    },
+    {
+      "sourceLine": 15,
+      "romaji": "Ano kisetsu ga ima me no mae",
+      "english": "That season is now before my eyes"
+    },
+    {
+      "sourceLine": 16,
+      "romaji": "Stay with me...",
+      "english": "Stay with me..."
+    },
+    {
+      "sourceLine": 17,
+      "romaji": "Kuchiguse o iinagara",
+      "english": "While saying your favorite phrases"
+    },
+    {
+      "sourceLine": 18,
+      "romaji": "Futari no shunkan o daite",
+      "english": "Holding onto the moments we shared"
+    },
+    {
+      "sourceLine": 19,
+      "romaji": "Mada wasurezu daiji ni shite ita",
+      "english": "I still haven't forgotten; I cherished them"
+    },
+    {
+      "sourceLine": 21,
+      "romaji": "Koi to ai to wa chigau mono da yo to",
+      "english": "That love and passion are different things"
+    },
+    {
+      "sourceLine": 22,
+      "romaji": "Sakuya iwareta sonna ki mo suru wa",
+      "english": "I feel like that's what you told me last night"
+    },
+    {
+      "sourceLine": 24,
+      "romaji": "Nidome no fuyu ga kite",
+      "english": "The second winter has arrived"
+    },
+    {
+      "sourceLine": 25,
+      "romaji": "Hanarete itta anata no kokoro",
+      "english": "And your heart has drifted away"
+    },
+    {
+      "sourceLine": 26,
+      "romaji": "Furikaereba itsumo",
+      "english": "Whenever I look back"
+    },
+    {
+      "sourceLine": 27,
+      "romaji": "Soko ni anata o kanjite ita no",
+      "english": "I could always feel you there"
+    },
+    {
+      "sourceLine": 29,
+      "romaji": "Stay with me...",
+      "english": "Stay with me..."
+    },
+    {
+      "sourceLine": 30,
+      "romaji": "Mayonaka no doa o tataki",
+      "english": "Knocking on the door at midnight"
+    },
+    {
+      "sourceLine": 31,
+      "romaji": "Kokoro ni ana ga aita",
+      "english": "A hole opened up in my heart"
+    },
+    {
+      "sourceLine": 32,
+      "romaji": "Ano kisetsu ga ima me no mae",
+      "english": "That season is now before my eyes"
+    },
+    {
+      "sourceLine": 33,
+      "romaji": "Stay with me...",
+      "english": "Stay with me..."
+    },
+    {
+      "sourceLine": 34,
+      "romaji": "Sabishisa magirawashite",
+      "english": "To distract myself from the loneliness"
+    },
+    {
+      "sourceLine": 35,
+      "romaji": "Oita rekōdo no hari",
+      "english": "I set the needle on the record"
+    },
+    {
+      "sourceLine": 36,
+      "romaji": "Onaji merodi kurikaeshite ita...",
+      "english": "The same melody kept repeating..."
+    },
+    {
+      "sourceLine": 38,
+      "romaji": "Stay with me...",
+      "english": "Stay with me..."
+    },
+    {
+      "sourceLine": 39,
+      "romaji": "Mayonaka no doa o tataki",
+      "english": "Knocking on the door at midnight"
+    },
+    {
+      "sourceLine": 40,
+      "romaji": "Kaeranaide to naita",
+      "english": "I cried and begged you not to go home"
+    },
+    {
+      "sourceLine": 41,
+      "romaji": "Ano kisetsu ga ima me no mae",
+      "english": "That season is now before my eyes"
+    },
+    {
+      "sourceLine": 42,
+      "romaji": "Stay with me...",
+      "english": "Stay with me..."
+    },
+    {
+      "sourceLine": 43,
+      "romaji": "Kuchiguse o iinagara",
+      "english": "While saying your favorite phrases"
+    },
+    {
+      "sourceLine": 44,
+      "romaji": "Futari no shunkan o daite",
+      "english": "Holding onto the moments we shared"
+    },
+    {
+      "sourceLine": 45,
+      "romaji": "Mada wasurezu atatameteta",
+      "english": "I still haven't forgotten; I kept them warm"
+    },
+    {
+      "sourceLine": 47,
+      "romaji": "Stay with me...",
+      "english": "Stay with me..."
+    },
+    {
+      "sourceLine": 48,
+      "romaji": "Mayonaka no doa o tataki",
+      "english": "Knocking on the door at midnight"
+    },
+    {
+      "sourceLine": 49,
+      "romaji": "Kaeranaide to naita",
+      "english": "I cried and begged you not to go home"
+    },
+    {
+      "sourceLine": 50,
+      "romaji": "Ano kisetsu ga ima me no mae",
+      "english": "That season is now before my eyes"
+    },
+    {
+      "sourceLine": 52,
+      "romaji": "Stay with me...",
+      "english": "Stay with me..."
+    }
+  ]
+}

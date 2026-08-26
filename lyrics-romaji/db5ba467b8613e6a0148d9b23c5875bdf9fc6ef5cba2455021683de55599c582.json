@@ -1,0 +1,201 @@
+{
+  "schema": 1,
+  "artist": "Adolfino",
+  "track": "La Gata Bajo la Lluvia",
+  "lyrics": [
+    "Amor",
+    "Tranquila, no te voy a molestar",
+    "Mi suerte estaba echada, ya lo sé",
+    "Y sé que hay un torrente dando vueltas por mi mente",
+    "Amor",
+    "Lo nuestro solo fue casualidad",
+    "La misma hora, el mismo boulevard",
+    "No temas, no hay cuidado, no te culpo del pasado",
+    "Ya lo ves, la vida es así",
+    "Tú te vas y yo me quedo aquí",
+    "Lloverá, y ya no seré tuya",
+    "Seré la gata bajo la lluvia",
+    "Y maullaré por ti",
+    "Amor",
+    "Lo sé, no digas nada, de verdad",
+    "Si ves alguna lágrima, perdón",
+    "Ya sé que no has querido hacer llorar a un gato herido",
+    "Amor",
+    "Si alguna vez nos vemos por ahí",
+    "Invítame a un café y hazme el amor",
+    "Y si ya no vuelvo a verte ojalá que tengas suerte",
+    "Ya lo ves, la vida es así",
+    "Tú te vas y yo me quedo aquí",
+    "Lloverá, y ya no seré tuya",
+    "Seré la gata bajo la lluvia",
+    "Ya lo ves, la vida es así",
+    "Tú te vas y yo me quedo aquí",
+    "Lloverá, y ya no seré tuya",
+    "Seré la gata bajo la lluvia",
+    "Y maullaré por ti",
+    "Y maullaré por ti",
+    "Y maullaré por ti"
+  ],
+  "translations": [
+    {
+      "sourceLine": 1,
+      "romaji": "Amor",
+      "english": "Amor"
+    },
+    {
+      "sourceLine": 2,
+      "romaji": "Tranquila, no te voy a molestar",
+      "english": "Quiet, I am not going to bother you"
+    },
+    {
+      "sourceLine": 3,
+      "romaji": "Mi suerte estaba echada, ya lo sé",
+      "english": "My fate was sealed, I know it now"
+    },
+    {
+      "sourceLine": 4,
+      "romaji": "Y sé que hay un torrente dando vueltas por mi mente",
+      "english": "And I know there is a torrent swirling through my mind"
+    },
+    {
+      "sourceLine": 5,
+      "romaji": "Amor",
+      "english": "Amor"
+    },
+    {
+      "sourceLine": 6,
+      "romaji": "Lo nuestro solo fue casualidad",
+      "english": "What we had was just a coincidence"
+    },
+    {
+      "sourceLine": 7,
+      "romaji": "La misma hora, el mismo boulevard",
+      "english": "The same hour, the same boulevard"
+    },
+    {
+      "sourceLine": 8,
+      "romaji": "No temas, no hay cuidado, no te culpo del pasado",
+      "english": "Do not fear, there is no worry, I do not blame you for the past"
+    },
+    {
+      "sourceLine": 9,
+      "romaji": "Ya lo ves, la vida es así",
+      "english": "You see, that's how life is"
+    },
+    {
+      "sourceLine": 10,
+      "romaji": "Tú te vas y yo me quedo aquí",
+      "english": "You leave and I stay here"
+    },
+    {
+      "sourceLine": 11,
+      "romaji": "Lloverá, y ya no seré tuya",
+      "english": "It will rain, and I will no longer be yours"
+    },
+    {
+      "sourceLine": 12,
+      "romaji": "Seré la gata bajo la lluvia",
+      "english": "I will be the cat in the rain"
+    },
+    {
+      "sourceLine": 13,
+      "romaji": "Y maullaré por ti",
+      "english": "And I will meow for you"
+    },
+    {
+      "sourceLine": 14,
+      "romaji": "Amor",
+      "english": "Amor"
+    },
+    {
+      "sourceLine": 15,
+      "romaji": "Lo sé, no digas nada, de verdad",
+      "english": "I know, don't say anything, really"
+    },
+    {
+      "sourceLine": 16,
+      "romaji": "Si ves alguna lágrima, perdón",
+      "english": "If you see a tear, forgive me"
+    },
+    {
+      "sourceLine": 17,
+      "romaji": "Ya sé que no has querido hacer llorar a un gato herido",
+      "english": "I know you didn't want to make a wounded cat cry"
+    },
+    {
+      "sourceLine": 18,
+      "romaji": "Amor",
+      "english": "Amor"
+    },
+    {
+      "sourceLine": 19,
+      "romaji": "Si alguna vez nos vemos por ahí",
+      "english": "If we ever see each other around"
+    },
+    {
+      "sourceLine": 20,
+      "romaji": "Invítame a un café y hazme el amor",
+      "english": "Invite me for a coffee and make love to me"
+    },
+    {
+      "sourceLine": 21,
+      "romaji": "Y si ya no vuelvo a verte ojalá que tengas suerte",
+      "english": "And if I never see you again, I hope you have luck"
+    },
+    {
+      "sourceLine": 22,
+      "romaji": "Ya lo ves, la vida es así",
+      "english": "You see, that's how life is"
+    },
+    {
+      "sourceLine": 23,
+      "romaji": "Tú te vas y yo me quedo aquí",
+      "english": "You leave and I stay here"
+    },
+    {
+      "sourceLine": 24,
+      "romaji": "Lloverá, y ya no seré tuya",
+      "english": "It will rain, and I will no longer be yours"
+    },
+    {
+      "sourceLine": 25,
+      "romaji": "Seré la gata bajo la lluvia",
+      "english": "I will be the cat in the rain"
+    },
+    {
+      "sourceLine": 26,
+      "romaji": "Ya lo ves, la vida es así",
+      "english": "You see, that's how life is"
+    },
+    {
+      "sourceLine": 27,
+      "romaji": "Tú te vas y yo me quedo aquí",
+      "english": "You leave and I stay here"
+    },
+    {
+      "sourceLine": 28,
+      "romaji": "Lloverá, y ya no seré tuya",
+      "english": "It will rain, and I will no longer be yours"
+    },
+    {
+      "sourceLine": 29,
+      "romaji": "Seré la gata bajo la lluvia",
+      "english": "I will be the cat in the rain"
+    },
+    {
+      "sourceLine": 30,
+      "romaji": "Y maullaré por ti",
+      "english": "And I will meow for you"
+    },
+    {
+      "sourceLine": 31,
+      "romaji": "Y maullaré por ti",
+      "english": "And I will meow for you"
+    },
+    {
+      "sourceLine": 32,
+      "romaji": "Y maullaré por ti",
+      "english": "And I will meow for you"
+    }
+  ]
+}
